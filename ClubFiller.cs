@@ -20,7 +20,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.AssignPlayersToTeams();
+            program.AssignPlayerPositions();
         }
 
         void FillPlayerFile()
@@ -48,7 +48,7 @@ namespace ConsoleApp3
 
         void MakeCitiesClubs()
         {
-            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\Football App\teams.txt", Encoding.UTF8);
+            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", Encoding.UTF8);
 
             int teamCount = teams.Length;
 
@@ -64,12 +64,12 @@ namespace ConsoleApp3
                 teams[i] += additions[addition];
             }
 
-            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\Football App\teams.txt", teams);
+            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", teams);
         }
 
         void AssignTeamColours()
         {
-            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\Football App\teams.txt", Encoding.UTF8);
+            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", Encoding.UTF8);
 
             int teamCount = teams.Length;
 
@@ -91,7 +91,7 @@ namespace ConsoleApp3
                 teams[i] += ",ConsoleColor." + additions[homeColor] + ",ConsoleColor." + additions[awayColor];
             }
 
-            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\Football App\teams.txt", teams);
+            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", teams);
         }
 
         void AssignPlayersToTeams()
@@ -100,7 +100,7 @@ namespace ConsoleApp3
 
             Random random = new Random();
 
-            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\Football App\teams.txt", Encoding.UTF8);
+            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", Encoding.UTF8);
 
             ArrayList tempTeams = new ArrayList();
 
@@ -121,12 +121,89 @@ namespace ConsoleApp3
                 }
             }
 
-            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\Football App\teams.txt", tempTeams.ToArray(typeof(string)) as string[]);
+            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", tempTeams.ToArray(typeof(string)) as string[]);
         }
 
         void AssignPlayerPositions()
         {
+            Random random = new Random();
 
+            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", Encoding.UTF8);
+
+            int teamCount = teams.Length;
+
+            int counter = 0;
+
+            for (int i = 0; i < teamCount / 23; i++)
+            {
+                counter++;
+                for (int j = 0; j < 22; j++)
+                {
+                    if (j < 2)
+                    {
+                        teams[counter] += ",GK";
+                    }
+                    else if (j < 4)
+                    {
+                        teams[counter] += ",RB";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/RWB";
+                        }
+                    }
+                    else if (j < 8)
+                    {
+                        teams[counter] += ",CB";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/CDM";
+                        }
+                    }
+                    else if (j < 10)
+                    {
+                        teams[counter] += ",LB";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/LWB";
+                        }
+                    }
+                    else if (j < 16)
+                    {
+                        teams[counter] += ",CM";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/CAM";
+                        }
+                    }
+                    else if (j < 18)
+                    {
+                        teams[counter] += ",RW";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/RM";
+                        }
+                    }
+                    else if (j < 20)
+                    {
+                        teams[counter] += ",ST";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/CF";
+                        }
+                    }
+                    else if (j < 22)
+                    {
+                        teams[counter] += ",LW";
+                        if (random.Next(0, 2) == 1)
+                        {
+                            teams[counter] += "/LM";
+                        }
+                    }
+                    counter++;
+                }
+            }
+
+            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", teams);
         }
     }
 }
