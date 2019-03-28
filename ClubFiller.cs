@@ -20,7 +20,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.AssignPlayerPositions();
+            program.AssignAge();
         }
 
         void FillPlayerFile()
@@ -200,6 +200,36 @@ namespace ConsoleApp3
                         }
                     }
                     counter++;
+                }
+            }
+
+            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", teams);
+        }
+
+        void AssignAge()
+        {
+            Random random = new Random();
+
+            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", Encoding.UTF8);
+            
+            int teamCount = teams.Length;
+
+            int counter = 0;
+
+            for (int i = 0; i < teamCount/23; i++)
+            {
+                counter++;
+                for (int j = 0; j < 22; j++)
+                {
+                    int firstAge = random.Next(16, 36);
+                    int secondAge = random.Next(16, 36);
+
+                    int averageAge = (firstAge + secondAge) / 2;
+
+                    teams[counter] += "," + averageAge;
+
+                    counter++;
+
                 }
             }
 
