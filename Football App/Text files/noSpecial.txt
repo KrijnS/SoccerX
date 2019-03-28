@@ -1,0 +1,816 @@
+Feyenoord, 20000000, 4-3-3(A), feyenoord.png, Eredivisie
+80, 82, 32, Sam Larsson, 11, 10-04-1993, LW, https://futhead.cursecdn.com/static/img/18/players/209782.png
+83, 85, 34, Nicolai Jorgensen, 9, 15-01-1991, SP, https://futhead.cursecdn.com/static/img/18/players/199852.png
+82, 84, 40, Steven Berghuis, 19, 19-12-1991, RW, https://futhead.cursecdn.com/static/img/18/players/200260.png
+80, 83, 36, Robin van Persie, 32, 06-08-1983, CAM/SP, https://futhead.cursecdn.com/static/img/18/players/7826.png
+79, 80, 79, Tonny Vilhena, 10, 03-01-1995, CM, https://futhead.cursecdn.com/static/img/18/players/203535.png
+78, 68, 80, Karim El Ahmadi, 8, 27-01-1985, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/162329.png
+76, 74, 77, Sofyan Amrabat, 21, 21-08-1996, CM,RB, https://futhead.cursecdn.com/static/img/18/players/224158.png
+83, 38, 85, Eric Botteghin, 33, 31-08-1987, CB, https://futhead.cursecdn.com/static/img/18/players/203888.png
+81, 58, 84, Jan-Arie van der Heijden, 6, 03-03-1988, CB, https://futhead.cursecdn.com/static/img/18/players/186456.png
+79, 63, 82, Ridgeciano Haps, 5, 12-05-1993, LB, https://futhead.cursecdn.com/static/img/18/players/210384.png
+82, 0, 82, Brad Jones, 25, 19-03-1982, DM, https://futhead.cursecdn.com/static/img/18/players/165735.png
+Barcelona, 80000000, 4-3-3(A), barcelona.png, La Liga
+87, 88, 45, Ousmane Dembele, 11, 15-05-1997, LW/RW, https://futhead.cursecdn.com/static/img/18/players/231443.png
+91, 93, 42, Luis Suarez, 9, 24-01-1987, SP, https://futhead.cursecdn.com/static/img/18/players/176580.png
+94, 95, 28, Lionel Messi, 10, 24-06-1987, RW/SP, https://futhead.cursecdn.com/static/img/18/players/158023.png
+89, 90, 60, Phillipe Coutinho, 14, 12-06-1992, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/189242.png
+85, 86, 75, Ivan Rakitic, 4, 10-03-1988, CM, https://futhead.cursecdn.com/static/img/18/players/168651.png
+85, 71, 87, Sergio Busquets, 5, 16-07-1988, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/189511.png
+82, 76, 84, Nelson Semedo, 2, 16-11-1993, RB, https://futhead.cursecdn.com/static/img/18/players/227928.png
+86, 57, 88, Gerard Pique, 3, 02-02-1987, CB, https://futhead.cursecdn.com/static/img/18/players/152729.png
+84, 45, 86, Samuel Umtiti, 23, 14-11-1993, CB, https://futhead.cursecdn.com/static/img/18/players/205600.png
+85, 72, 87, Jordi Alba, 18, 21-03-1989, LB, https://futhead.cursecdn.com/static/img/18/players/189332.png
+87, 0, 87, Marc-Andre ter Stegen, 1, 30-04-1992, DM, https://futhead.cursecdn.com/static/img/18/players/192448.png
+Real Madrid, 100000000, 4-3-3(A), realMadrid.png, La Liga
+85, 87, 56, Marco Asensio, 20, 21-01-1996, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/220834.png
+85, 87, 40, Karim Benzema, 9, 19-12-1987, SP, https://futhead.cursecdn.com/static/img/18/players/165153.png
+90, 92, 68, Gareth Bale, 11, 16-07-1989, RW, https://futhead.cursecdn.com/static/img/18/players/173731.png
+86, 88, 52, Isco, 22, 21-04-1992, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/197781.png
+87, 87, 81, Luka Modric, 10, 09-09-1985, CM, https://futhead.cursecdn.com/static/img/18/players/177003.png
+87, 87, 84, Toni Kroos, 8, 04-01-1990, CM, https://futhead.cursecdn.com/static/img/18/players/182521.png
+83, 74, 85, Dani Carvajal, 2, 11-01-1992, RB, https://futhead.cursecdn.com/static/img/18/players/204963.png
+85, 57, 87, Raphael Varane, 5, 25-04-1993, CB, https://futhead.cursecdn.com/static/img/18/players/201535.png
+87, 64, 89, Sergio Ramos, 4, 30-03-1986, CB, https://futhead.cursecdn.com/static/img/18/players/155862.png
+85, 80, 87, Marcelo, 12, 12-05-1988, LB, https://futhead.cursecdn.com/static/img/18/players/176676.png
+86, 0, 86, Keylor Navas, 1, 15-12-1986, DM, https://futhead.cursecdn.com/static/img/18/players/193041.png
+Icons, 100000000, 4-3-3(A), icons.png, Rest of the World
+92, 94, 41, Ronaldinho, 11, 21-03-1980, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/28130.png
+94, 95, 45, Ronaldo Nazario, 9, 22-09-1976, SP, https://futhead.cursecdn.com/static/img/18/players/237064.png
+93, 95, 42, Diego Armando Maradona, 10, 30-10-1960, RW/CAM, https://futhead.cursecdn.com/static/img/18/players/190042.png
+92, 94, 50, Pele, 14, 23-10-1940, ST/CAM, https://futhead.cursecdn.com/static/img/18/players/237067.png
+89, 89, 89, Ruud Gullit, 8, 01-09-1962, CM, https://futhead.cursecdn.com/static/img/18/players/214100.png
+89, 72, 91, Patrick Vieira, 6, 23-06-1976, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/238427.png
+88, 81, 90, Cafu, 2, 07-06-1970, RB, https://vignette.wikia.nocookie.net/the-football-database/images/2/26/A.C._Milan_Cafu_001.png/revision/latest?cb=20150304161214
+91, 62, 93, Alessandro Nesta, 4, 19-03-1976, CB, https://futhead.cursecdn.com/static/img/18/players/1088.png
+92, 71, 94, Paolo Maldini, 5, 26-06-1968, CB/LB, https://futhead.cursecdn.com/static/img/18/players/238439.png
+87, 87, 86, Roberto Carlos, 3, 10-04-1973, LB, https://futhead.cursecdn.com/static/img/18/players/238430.png
+92, 0, 92, Edwin van der Sar, 1, 29-10-1970, DM, https://futhead.cursecdn.com/static/img/18/players/51539.png
+Napoli, 50000000, 4-3-3(A), napoli.png, Serie A
+86, 88, 46, Lorenzo Insigne, 24, 04-06-1991, LW, https://futhead.cursecdn.com/static/img/18/players/198219.png
+89, 90, 52, Dries Mertens, 14, 06-05-1987, SP, https://futhead.cursecdn.com/static/img/18/players/175943.png
+84, 86, 59, Jose Maria Callejon, 7, 11-02-1987, RW, https://futhead.cursecdn.com/static/img/18/players/185020.png
+86, 88, 75, Marek Hamsik, 17, 27-07-1987, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/171877.png
+84, 84, 82, Jorginho, 8, 20-12-1991, CM, https://futhead.cursecdn.com/static/img/18/players/205498.png
+84, 76, 86, Allan, 5, 08-01-1991, CM, https://futhead.cursecdn.com/static/img/18/players/199914.png
+83, 70, 85, Elseid Hysaj, 23, 02-02-1994, RB, https://futhead.cursecdn.com/static/img/18/players/210864.png
+86, 54, 88, Kalidou Koulibaly, 26, 20-06-1991, CB, https://futhead.cursecdn.com/static/img/18/players/201024.png
+83, 56, 85, Raul Albiol, 33, 04-09-1985, CB, https://futhead.cursecdn.com/static/img/18/players/157481.png
+82, 71, 84, Faouzi Ghoulam, 31, 01-02-1991, LB, https://futhead.cursecdn.com/static/img/18/players/201454.png
+83, 83, Orestis Karnezis, 25, 11-07-1985, DM, https://futhead.cursecdn.com/static/img/18/players/183497.png
+Juventus, 7000000, 3-5-2, juventus.png, Serie A
+89, 91, 56, Gonzalo Higuain, 9, 10-12-1987, SP, https://futhead.cursecdn.com/static/img/18/players/167664.png
+93, 94, 36, Cristiano Ronaldo, 7, 05-02-1985, LW/SP, https://futhead.cursecdn.com/static/img/18/players/20801.png
+88, 90, 60, Paulo Dybala, 10, 15-11-1993, CF/CAM, https://futhead.cursecdn.com/static/img/18/players/211110.png
+85, 87, 68, Douglas Costa, 11, 14-09-1990, LM, https://futhead.cursecdn.com/static/img/18/players/190483.png
+84, 86, 69, Juan Cuadrado, 7, 26-05-1988, RM, https://futhead.cursecdn.com/static/img/18/players/193082.png
+84, 85, 82, Miralem Pjanic, 5, 02-04-1990, CVM, https://futhead.cursecdn.com/static/img/18/players/180206.png
+84, 74, 86, Blaise Matuidi, 14, 09-04-1987, CVM, https://futhead.cursecdn.com/static/img/18/players/170890.png
+86, 75, 88, Alex Sandro, 12, 26-01-1991, LB/CB, https://futhead.cursecdn.com/static/img/18/players/191043.png
+86, 60, 88, Mehdi Benatia, 4, 17-04-1987, CB, https://futhead.cursecdn.com/static/img/18/players/177509.png
+88, 58, 90, Giorgio Chiellini, 3, 14-08-1984, CB, https://futhead.cursecdn.com/static/img/18/players/138956.png
+84, 0, 84, Wojciech Szczesny, 1, 18-04-1990, DM, https://futhead.cursecdn.com/static/img/18/players/183497.png
+Manchester United, 100000000, 4-3-3(A), manU.png, Premier League
+87, 89, 69, Alexis Sanchez, 7, 19-12-1988, LW, https://futhead.cursecdn.com/static/img/18/players/184941.png
+86, 88, 59, Romelu Lukaku, 9, 13-05-1993, SP, https://futhead.cursecdn.com/static/img/18/players/192505.png
+84, 86, 61, Marcus Rashford, 19, 31-10-1997, RW/SP, https://futhead.cursecdn.com/static/img/18/players/231677.png
+86, 86, 85, Paul Pogba, 6, 15-03-1993, CM, https://futhead.cursecdn.com/static/img/18/players/195864.png
+83, 80, 84, Ander Herrera, 21, 14-09-1989, CM, https://futhead.cursecdn.com/static/img/18/players/191740.png
+84, 71, 86, Nemanja Matic, 31, 01-08-1988, CVM, https://futhead.cursecdn.com/static/img/18/players/191202.png
+84, 74, 85, Antonio Valencia, 25, 04-08-1985, RB, https://futhead.cursecdn.com/static/img/18/players/167905.png
+84, 62, 85, Eric Bailly, 3, 12-04-1994, CB, https://futhead.cursecdn.com/static/img/18/players/225508.png
+82, 60, 83, Victor Lindelof, 3, 17-07-1994, CB, https://futhead.cursecdn.com/static/img/18/players/221660.png
+78, 65, 80, Luke Shaw, 23, 12-07-1995, LB, https://futhead.cursecdn.com/static/img/18/players/205988.png
+92, 0, 92, David de Gea, 1, 07-11-1990, DM, https://futhead.cursecdn.com/static/img/18/players/193080.png
+Manchester City, 120000000, 4-3-3(A), manC.png, Premier League
+85, 87, 60, Leroy Sane, 19, 11-01-1996, LW, https://futhead.cursecdn.com/static/img/18/players/222492.png
+88, 90, 54, Sergio Aguero, 10, 02-06-1988, SP, https://futhead.cursecdn.com/static/img/18/players/153079.png
+84, 86, 53, Raheem Sterling, 7, 08-12-1994, RW, https://futhead.cursecdn.com/static/img/18/players/202652.png
+88, 89, 72, Kevin de Bruyne, 17, 28-06-1991, CAM, https://futhead.cursecdn.com/static/img/18/players/192985.png
+83, 84, 81, Ilkay Gundogan, 8, 24-10-1990, CM, https://futhead.cursecdn.com/static/img/18/players/186942.png
+85, 75, 86, Fernandinho, 25, 04-05-1985, CM, https://futhead.cursecdn.com/static/img/18/players/135507.png
+83, 72, 84, Kyle Walker, 2, 28-05-1990, RB, https://futhead.cursecdn.com/static/img/18/players/188377.png
+84, 61, 86, Vincent Kompany, 4, 10-04-1986, CB, https://futhead.cursecdn.com/static/img/18/players/139720.png
+83, 62, 85, Nicolas Otamendi, 30, 12-02-1988, CB, https://futhead.cursecdn.com/static/img/18/players/192366.png
+80, 73, 81, Benjamin Mendy, 22, 17-07-1994, LB, https://futhead.cursecdn.com/static/img/18/players/204884.png
+86, 0, 86, Ederson Moraes, 31, 17-08-1993, DM, https://futhead.cursecdn.com/static/img/18/players/210257.png
+Arsenal, 60000000, 4-3-3(A), arsenal.png, Premier League
+85, 87, 62, Alexandre Lacazette, 9, 28-05-1991, LW/SP, https://futhead.cursecdn.com/static/img/18/players/193301.png
+87, 89, 64, Pierre-Emerick Aubameyang, 14, 18-06-1989, SP, https://futhead.cursecdn.com/static/img/18/players/188567.png
+84, 86, 68, Henrikh Mkhitaryan, 7, 21-01-1989, RW/CAM, https://futhead.cursecdn.com/static/img/18/players/192883.png
+87, 88, 63, Mesut Ozil, 10, 15-10-1988, CAM, https://futhead.cursecdn.com/static/img/18/players/176635.png
+82, 84, 79, Aaron Ramsey, 8, 26-12-1990, CM, https://futhead.cursecdn.com/static/img/18/players/186561.png
+81, 76, 81, Granit Xhaka, 34, 27-09-1992, CM, https://futhead.cursecdn.com/static/img/18/players/189461.png
+80, 73, 82, Hector Bellerin, 24, 19-03-1995, RB, https://futhead.cursecdn.com/static/img/18/players/203747.png
+83, 63, 85, Laurent Koscielny, 6, 10-09-1985, CB, https://futhead.cursecdn.com/static/img/18/players/165229.png
+84, 54, 86, Sokratis, 5, 09-06-1988, CB, https://futhead.cursecdn.com/static/img/18/players/172879.png
+81, 74, 83, Sead Kolasinac, 31, 20-06-1993, LB, https://futhead.cursecdn.com/static/img/18/players/207993.png
+86, 0, 86, Bernd Leno, 12, 04-03-1992, DM, https://futhead.cursecdn.com/static/img/18/players/192563.png
+Liverpool, 55000000, 4-3-3(C), liverpool.png, Premier League
+86, 88, 58, Sadio Mane, 19, 10-04-1992, LW/RW, https://futhead.cursecdn.com/static/img/18/players/208722.png
+86, 87, 66, Roberto Firmino, 9, 02-10-1991, SP/CAM, https://futhead.cursecdn.com/static/img/18/players/201942.png
+89, 91, 56, Mo Salah, 11, 15-06-1992, RW/SP, https://futhead.cursecdn.com/static/img/18/players/209331.png
+83, 83, 84, Georginio Wijnaldum, 5, 11-11-1990, CM, https://futhead.cursecdn.com/static/img/18/players/181291.png
+85, 86, 80, Naby Keita, 8, 10-02-1995, CM, https://futhead.cursecdn.com/static/img/18/players/220971.png
+85, 70, 86, Fabinho, 22, 23-10-1993, CVM/RB, https://futhead.cursecdn.com/static/img/18/players/209499.png
+82, 64, 84, Trent Alexander-Arnold, 66, 07-10-1998, RB, https://futhead.cursecdn.com/static/img/18/players/231281.png
+85, 53, 86, Virgil van Dijk, 4, 08-07-1991, CB, https://futhead.cursecdn.com/static/img/18/players/203376.png
+83, 51, 84, Joel Matip, 32, 08-08-1991, CB, https://futhead.cursecdn.com/static/img/18/players/197061.png
+81, 58, 82, Andrew Robertson, 26, 11-03-1994, LB, https://futhead.cursecdn.com/static/img/18/players/216267.png
+84, 0, 84, Loris Karius, 1, 22-06-1993, DM, https://futhead.cursecdn.com/static/img/18/players/203775.png
+Chelsea, 80000000, 4-3-3(D), chelsea.png, Premier League
+89, 91, 49, Eden Hazard, 10, 07-01-1991, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/183277.png
+84, 86, 48, Alvaro Morata, 9, 23-10-1992, SP, https://futhead.cursecdn.com/static/img/18/players/201153.png
+84, 86, 60, Willian, 22, 09-08-1988, RW, https://futhead.cursecdn.com/static/img/18/players/180403.png
+85, 86, 70, Cesc Fabregas, 4, 04-05-1987, CM, https://futhead.cursecdn.com/static/img/18/players/162895.png
+82, 62, 84, Tiemoue Bakayoko, 14, 17-08-1994, CVM, https://futhead.cursecdn.com/static/img/18/players/219809.png
+87, 71, 89, N'Golo Kante, 7, 29-03-1991, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/215914.png
+85, 60, 87, Cesar Azpilicueta, 28, 28-08-1989, RB/CB, https://futhead.cursecdn.com/static/img/18/players/184432.png
+83, 68, 85, David Luiz, 30, 22-04-1987, CB, https://futhead.cursecdn.com/static/img/18/players/179944.png
+83, 50, 85, Andreas Christensen, 27, 10-04-1996, CB, https://futhead.cursecdn.com/static/img/18/players/213661.png
+83, 75, 83, Marcos Alonso, 3, 28-12-1990, LB, https://futhead.cursecdn.com/static/img/18/players/192638.png
+88, 0, 88, Thibaut Courtois, 13, 11-05-1992, DM, https://futhead.cursecdn.com/static/img/18/players/192119.png
+Tottenham Hotspur, 45000000, 4-3-2-1, tottenham.png, Premier League
+84, 86, 54, Son Heung-Min, 7, 08-07-1992, LF/LW, https://futhead.cursecdn.com/static/img/18/players/200104.png
+89, 90, 51, Harry Kane, 10, 28-07-1993, SP, https://futhead.cursecdn.com/static/img/18/players/202126.png
+87, 88, 65, Christian Eriksen, 23, 14-02-1992, CAM/RF, https://futhead.cursecdn.com/static/img/18/players/190460.png
+86, 87, 73, Dele Alli, 20, 11-04-1996, CAM, https://futhead.cursecdn.com/static/img/18/players/211117.png
+85, 80, 86, Mousa Dembele, 19, 16-07-1987, CM, https://futhead.cursecdn.com/static/img/18/players/162240.png
+81, 70, 83, Eric Dier, 15, 15-01-1994, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/202335.png
+82, 64, 84, Serge Aurier, 24, 24-12-1992, RB, https://futhead.cursecdn.com/static/img/18/players/197853.png
+84, 59, 86, Jan Vertonghen, 5, 24-04-1987, CB, https://futhead.cursecdn.com/static/img/18/players/172871.png
+85, 51, 87, Toby Alderweireld, 4, 02-03-1989, CB, https://futhead.cursecdn.com/static/img/18/players/184087.png
+82, 60, 83, Danny Rose, 3, 02-07-1990, LB, https://futhead.cursecdn.com/static/img/18/players/169595.png
+88, 0, 88, Hugo Lloris, 1, 26-12-1986, DM, https://futhead.cursecdn.com/static/img/18/players/167948.png
+Bayern Munchen, 75000000, 4-3-3(A), bayern.png, Bundesliga
+85, 87, 51, Franck Ribery, 7, 07-04-1983, LW, https://futhead.cursecdn.com/static/img/18/players/156616.png
+90, 91, 54, Robert Lewandowski, 9, 21-08-1988, SP, https://futhead.cursecdn.com/static/img/18/players/188545.png
+87, 88, 49, Arjen Robben, 10, 23-01-1984, RW, https://futhead.cursecdn.com/static/img/18/players/9014.png
+86, 88, 52, James Rodriguez, 11, 12-07-1991, CAM, https://futhead.cursecdn.com/static/img/18/players/198710.png
+87, 85, 87, Arturo Vidal, 23, 22-05-1987, CM, https://futhead.cursecdn.com/static/img/18/players/181872.png
+86, 87, 76, Thiago, 6, 11-04-1991, CM, https://futhead.cursecdn.com/static/img/18/players/189509.png
+84, 76, 85, Joshua Kimmich, 32, 08-02-1995, RB/CM, https://futhead.cursecdn.com/static/img/18/players/212622.png
+87, 54, 89, Jerome Boateng, 17, 03-09-1988, CB, https://futhead.cursecdn.com/static/img/18/players/183907.png
+86, 60, 88, Mats Hummels, 5, 16-12-1988, CB, https://futhead.cursecdn.com/static/img/18/players/178603.png
+85, 78, 86, David Alaba, 27, 24-06-1992, LB, https://futhead.cursecdn.com/static/img/18/players/197445.png
+91, 0, 91, Manuel Neuer, 1, 27-03-1986, DM, https://futhead.cursecdn.com/static/img/18/players/167495.png
+Borussia Dortmund, 50000000, 4-3-3(A), dortmund.png, Bundesliga
+86, 87, 60, Marco Reus, 11, 31-05-1989, LW/LM, https://futhead.cursecdn.com/static/img/18/players/188350.png
+79, 81, 52, Alexander Isak, 14, 21-09-1999, SP, https://futhead.cursecdn.com/static/img/18/players/233731.png
+84, 84, 65, Andriy Yarmolenko, 9, 23-10-1989, RW/SP, https://futhead.cursecdn.com/static/img/18/players/194794.png
+84, 85, 50, Christian Pulisic, 22, 18-09-1998, RW/CAM, https://futhead.cursecdn.com/static/img/18/players/227796.png
+82, 79, 83, Thomas Delaney, 6, 03-09-1991, CM, https://futhead.cursecdn.com/static/img/18/players/193283.png
+81, 81, 78, Mahmoud Dahoud, 19, 01-01-1996, CM, https://futhead.cursecdn.com/static/img/18/players/218339.png
+83, 70, 84, Lukasz Piszczek, 26, 03-06-1985, RB, https://futhead.cursecdn.com/static/img/18/players/173771.png
+80, 54, 82, Manuel Akanji, 16, 19-07-1995, CB, https://futhead.cursecdn.com/static/img/18/players/229237.png
+83, 52, 85, Omer Toprak, 36, 21-07-1989, CB, https://futhead.cursecdn.com/static/img/18/players/185239.png
+82, 78, 82, Raphael Guerreiro, 13, 22-12-1993, LM/LB, https://futhead.cursecdn.com/static/img/18/players/209889.png
+84, 0, 84, Roman Burki, 38, 14-11-1990, DM, https://futhead.cursecdn.com/static/img/18/players/189117.png
+Paris Saint-Germain, 130000000, 4-3-3(A), psg.png, Ligue 1
+91, 93, 51, Neymar, 10, 05-02-1992, LW, https://futhead.cursecdn.com/static/img/18/players/190871.png
+89, 88, 58, Edinson Cavani, 9, 14-02-1987, SP, https://futhead.cursecdn.com/static/img/18/players/179813.png
+87, 87, 54, Kylian Mbappe, 29, 20-12-1998, RW/SP, https://futhead.cursecdn.com/static/img/18/players/231747.png
+86, 87, 60, Angel Di Maria, 11, 14-02-1988, CAM/RW, https://futhead.cursecdn.com/static/img/18/players/183898.png
+88, 86, 84, Marco Verratti, 6, 05-12-1992, CM, https://futhead.cursecdn.com/static/img/18/players/199556.png
+83, 83, 76, Adrien Rabiot, 25, 03-04-1995, CM, https://futhead.cursecdn.com/static/img/18/players/210008.png
+86, 80, 85, Dani Alves, 32, 06-05-1983, RB, https://futhead.cursecdn.com/static/img/18/players/146530.png
+87, 58, 88, Thiago Silva, 2, 22-08-1984, CB, https://futhead.cursecdn.com/static/img/18/players/164240.png
+85, 55, 86, Marquinhos, 5, 14-05-1994, CB, https://futhead.cursecdn.com/static/img/18/players/207865.png
+84, 76, 85, Thomas Meunier, 12, 12-09-1991, RB/LB, https://futhead.cursecdn.com/static/img/18/players/202371.png
+88, 0, 88, Gianluigi Buffon, 31, 28-01-1978, DM, https://futhead.cursecdn.com/static/img/18/players/1179.png
+Atletico Madrid, 65000000, 4-3-1-2, atleticoMadrid.png, La Liga
+88, 90, 50, Antoine Griezmann, 7, 21-03-1991, SP/CAM, https://futhead.cursecdn.com/static/img/18/players/194765.png
+84, 85, 58, Kevin Gameiro, 21, 09-05-1987, SP, https://futhead.cursecdn.com/static/img/18/players/176600.png
+85, 86, 81, Koke, 6, 08-01-1992, CM/CAM, https://futhead.cursecdn.com/static/img/18/players/193747.png
+84, 84, 84, Saul Niguez, 8, 21-11-1994, CM, https://futhead.cursecdn.com/static/img/18/players/208421.png
+85, 86, 76, Thomas Lemar, 10, 12-11-1995, CM/LM, https://futhead.cursecdn.com/static/img/18/players/213565.png
+82, 68, 84, Thomas Partey, 5, 13-06-1993, CVM, https://futhead.cursecdn.com/static/img/18/players/209989.png
+83, 64, 84, Juanfran, 20, 09-01-1985, RB, https://futhead.cursecdn.com/static/img/18/players/146760.png
+84, 54, 86, Jose Maria Gimenez, 24, 20-01-1995, CB, https://futhead.cursecdn.com/static/img/18/players/216460.png
+89, 58, 90, Diego Godin, 2, 16-02-1986, CB, https://futhead.cursecdn.com/static/img/18/players/182493.png
+84, 68, 85, Filipe Luis, 3, 09-08-1985, LB, https://futhead.cursecdn.com/static/img/18/players/164169.png
+88, 0, 88, Jan Oblak, 13, 07-01-1993, DM, https://futhead.cursecdn.com/static/img/18/players/200389.png
+AS Roma, 50000000, 4-3-3(D), roma.png, Serie A
+83, 85, 49, Stephan El Shaarawy, 92, 27-10-1992, LW, https://futhead.cursecdn.com/static/img/18/players/190813.png
+85, 86, 60, Edin Dzeko, 9, 17-03-1986, SP, https://futhead.cursecdn.com/static/img/18/players/180930.png
+83, 84, 49, Cengiz Under, 17, 14-07-1997, RW/RM, https://futhead.cursecdn.com/static/img/18/players/235889.png
+83, 84, 74, Javier Pastore, 27, 20-06-1989, CM, https://futhead.cursecdn.com/static/img/18/players/191180.png
+84, 74, 84, Kevin Strootman, 6, 13-02-1990, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/189712.png
+84, 73, 85, Daniele de Rossi, 16, 24-07-1983, CVM, https://futhead.cursecdn.com/static/img/18/players/53302.png
+84, 82, 84, Allesandro Florenzi, 24, 11-03-1991, RB/CM/RW, https://futhead.cursecdn.com/static/img/18/players/203551.png
+84, 54, 86, Kostas Manolas, 44, 14-06-1991, CB, https://futhead.cursecdn.com/static/img/18/players/192774.png
+82, 58, 83, Juan Jesus, 5, 10-06-1991, CB, https://futhead.cursecdn.com/static/img/18/players/200752.png
+82, 78, 83, Aleksander Kolarov, 11, 10-11-1985, LB, https://futhead.cursecdn.com/static/img/18/players/185103.png
+86, 0, 86, Allison Becker, 1, 02-10-1992, DM, https://futhead.cursecdn.com/static/img/18/players/212831.png
+Lazio Roma, 40000000, 4-3-1-2, lazio.png, Serie A
+85, 87, 51, Ciro Immobile, 17, 20-02-1990, SP, https://futhead.cursecdn.com/static/img/18/players/192387.png
+83, 84, 68, Felipe Anderson, 10, 15-04-1993, RW/SP, https://futhead.cursecdn.com/static/img/18/players/201995.png
+84, 85, 73, Luis Alberto, 18, 28-09-1992, CAM/SP, https://futhead.cursecdn.com/static/img/18/players/198706.png
+85, 85, 84, Sergej Milinkovic-Savic, 21, 27-02-1995, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/223848.png
+83, 82, 84, Marco Parolo, 16, 25-01-1985, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/183498.png
+82, 59, 84, Lucas Leiva, 6, 09-01-1987, CVM, https://futhead.cursecdn.com/static/img/18/players/176266.png
+80, 70, 81, Dusan Basta, 8, 18-08-1984, RB, https://futhead.cursecdn.com/static/img/18/players/167514.png
+81, 48, 83, Wallace, 13, 14-10-1994, CB, https://futhead.cursecdn.com/static/img/18/players/216437.png
+82, 58, 83, Bastos, 15, 27-03-1991, CB, https://futhead.cursecdn.com/static/img/18/players/216655.png
+81, 68, 82, Jordan Lukaku, 5, 25-07-1994, LB, https://futhead.cursecdn.com/static/img/18/players/207537.png
+83, 0, 83, Thomas Strakosha, 1, 19-03-1995, GK, https://futhead.cursecdn.com/static/img/18/players/212151.png
+Olympique Lyon, 45000000, 4-3-3(A), lyon.png, Ligue 1
+84, 86, 48, Memphis Depay, 11, 13-02-1994, LW/SP, https://futhead.cursecdn.com/static/img/18/players/202556.png
+83, 85, 54, Mariano Diaz, 9, 01-08-1993, SP, https://futhead.cursecdn.com/static/img/18/players/221639.png
+81, 84, 36, Bertrand Traore, 10, 06-09-1995, RW/SP, https://futhead.cursecdn.com/static/img/18/players/207948.png
+85, 86, 72, Nabil Fekir, 18, 18-07-1993, CAM, https://futhead.cursecdn.com/static/img/18/players/216594.png
+83, 83, 82, Houssem Aouar, 8, 30-06-1998, CM, https://futhead.cursecdn.com/static/img/18/players/234906.png
+82, 78, 84, Tanguy NDombele, 28, 28-12-1996, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/235569.png
+80, 73, 81, Rafael, 4, 09-07-1990, RB, https://futhead.cursecdn.com/static/img/18/players/189681.png
+83, 57, 85, Marcelo, 6, 20-05-1987, CB, https://futhead.cursecdn.com/static/img/18/players/180334.png
+82, 49, 83, Mapou Yanga-Mbiwa, 2, 15-05-1989, CB, https://futhead.cursecdn.com/static/img/18/players/181560.png
+82, 72, 84, Marcal, 20, 19-02-1989, LB, https://futhead.cursecdn.com/static/img/18/players/207707.png
+85, 0, 85, Anthony Lopes, 1, 01-10-1990, DM, https://futhead.cursecdn.com/static/img/18/players/199482.png
+PSV, 30000000, 4-3-3(A), psv.png, Eredivisie
+82, 83, 58, Steven Bergwijn, 17, 08-10-1997, LW/RW, https://futhead.cursecdn.com/static/img/18/players/225953.png
+81, 83, 52, Luuk de Jong, 9, 27-08-1990, SP, https://futhead.cursecdn.com/static/img/18/players/189805.png
+83, 85, 60, Hirving Lozano, 11, 30-07-1995, LW/RW, https://futhead.cursecdn.com/static/img/18/players/221992.png
+80, 81, 53, Gaston Pereiro, 7, 11-06-1995, CAM, https://futhead.cursecdn.com/static/img/18/players/229636.png
+80, 82, 68, Bart Ramselaar, 23, 29-06-1996, CM/CAM, https://futhead.cursecdn.com/static/img/18/players/227633.png
+81, 73, 82, Jorrit Hendrix, 8, 06-02-1995, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/212755.png
+81, 73, 82, Santiago Arias, 4, 13-01-1992, RB, https://futhead.cursecdn.com/static/img/18/players/204259.png
+81, 54, 82, Daniel Schwaab, 5, 23-08-1988, CB, https://futhead.cursecdn.com/static/img/18/players/183426.png
+80, 53, 80, Nicolas Isimat-Mirin, 2, 15-11-1991, CB, https://futhead.cursecdn.com/static/img/18/players/198868.png
+80, 76, 81, Angelino, 15, 04-01-1997, LB, https://futhead.cursecdn.com/static/img/18/players/220651.png
+83, 0, 83, Jeroen Zoet, 1, 06-01-1991, DM, https://futhead.cursecdn.com/static/img/18/players/190778.png
+Ajax, 35000000, 4-3-3(A), ajax.png, Eredivisie
+83, 85, 50, Dusan Tadic, 11, 20-11-1988, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/199434.png
+79, 81, 44, Klaas-Jan Huntelaar, 9, 12-08-1983, SP, https://futhead.cursecdn.com/static/img/18/players/148803.png
+82, 84, 43, David Neres, 7, 03-03-1997, RW, https://futhead.cursecdn.com/static/img/18/players/236632.png
+84, 86, 62, Hakim Ziyech, 10, 19-03-1993, CAM, https://futhead.cursecdn.com/static/img/18/players/208670.png
+82, 82, 81, Donny van de Beek, 6, 18-04-1997, CM, https://futhead.cursecdn.com/static/img/18/players/221363.png
+81, 82, 78, Frenkie de Jong, 21, 12-05-1997, CM/CB, https://futhead.cursecdn.com/static/img/18/players/228702.png
+76, 69, 77, Rasmus Kristensen, 43, 11-07-1997, RB, https://futhead.cursecdn.com/static/img/18/players/233301.png
+83, 68, 85, Matthijs de Ligt, 4, 12-08-1999, CB, https://futhead.cursecdn.com/static/img/18/players/235243.png
+80, 56, 81, Maximilian Wober, 5, 04-02-1998, CB, https://futhead.cursecdn.com/static/img/18/players/231838.png
+81, 76, 82, Nicolas Tagliafico, 31, 31-08-1992, LB, https://futhead.cursecdn.com/static/img/18/players/211256.png
+83, 0, 83, Andre Onana, 1, 02-04-1996, DM, https://futhead.cursecdn.com/static/img/18/players/226753.png
+AZ, 20000000, 4-3-3(A), az.png, Eredivisie
+79, 80, 59, Oussama Idrissi, 22, 26-02-1996, RW/LW, https://futhead.cursecdn.com/static/img/18/players/228747.png
+71, 72, 58, Fred Friday, 54, 22-05-1995, SP, https://futhead.cursecdn.com/static/img/18/players/219566.png
+83, 85, 60, Alireza Jahanbakhsh, 7, 11-08-1993, RW, https://futhead.cursecdn.com/static/img/18/players/215871.png
+82, 83, 73, Guus Til, 15, 22-12-1997, CAM, https://futhead.cursecdn.com/static/img/18/players/235663.png
+77, 78, 72, Marko Vejinovic, 10, 03-02-1990, CM, https://futhead.cursecdn.com/static/img/18/players/189715.png
+82, 72, 83, Fredrik Midtsjo, 6, 11-08-1993, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/198658.png
+81, 75, 82, Jonas Svensson, 2, 06-03-1993, RB, https://futhead.cursecdn.com/static/img/18/players/198657.png
+80, 65, 82, Ron Vlaar, 4, 16-02-1985, CB, https://futhead.cursecdn.com/static/img/18/players/168585.png
+76, 60, 77, Pantelis Chatzidiakos, 12, 18-01-1997, CB, https://futhead.cursecdn.com/static/img/18/players/229150.png
+79, 68, 80, Thomas Ouwejan, 5, 24-06-1996, LB, https://futhead.cursecdn.com/static/img/18/players/229155.png
+81, 0, 81, Marco Bizot, 1, 10-03-1991, DM, https://futhead.cursecdn.com/static/img/18/players/200110.png
+SC Heerenveen, 5000000, 4-3-3(C), sparta.png, Eredivisie
+78, 80, 58, Arber Zeneli, 13, 25-02-1995, LW, https://futhead.cursecdn.com/static/img/18/players/221919.png
+77, 79, 59, Sam Lammers, 9, 30-04-1997, SP, https://futhead.cursecdn.com/static/img/18/players/236498.png
+77, 79, 54, Marco Rojas, 7, 05-11-1991, RW, https://futhead.cursecdn.com/static/img/18/players/193092.png
+76, 74, 77, Yuki Kobayashi, 21, 24-04-1992, CM, https://futhead.cursecdn.com/static/img/18/players/232736.png
+74, 75, 65, Morten Thorsby, 8, 05-05-1996, CM, https://futhead.cursecdn.com/static/img/18/players/222475.png
+74, 60, 75, Stijn Schaars, 6, 11-01-1984, CVM, https://futhead.cursecdn.com/static/img/18/players/137109.png
+70, 62, 71, Sherel Floranus, 2, 23-08-1998, RB, https://futhead.cursecdn.com/static/img/18/players/233098.png
+72, 54, 74, Kik Pierie, 5, 20-07-2000, CB/LB, https://futhead.cursecdn.com/static/img/18/players/234925.png
+74, 56, 76, Daniel Hoegh, 3, 06-01-1991, CB, https://futhead.cursecdn.com/static/img/18/players/201301.png
+71, 63, 72, Lucas Woudenberg, 16, 25-04-1994, LB, https://futhead.cursecdn.com/static/img/18/players/211195.png
+75, 0, 75, Warner Hahn, 1, 15-06-1992, DM, https://futhead.cursecdn.com/static/img/18/players/222900.png
+Internazionale, 45000000, 4-3-3(A), inter.png, Serie A
+85, 86, 70, Ivan Perisic, 44, 02-02-1989, LM/LW, https://futhead.cursecdn.com/static/img/18/players/181458.png
+87, 88, 59, Mauro Icardi, 9, 19-02-1993, SP, https://futhead.cursecdn.com/static/img/18/players/201399.png
+83, 84, 63, Antonio Candreva, 87, 28-02-1987, RM/RW, https://futhead.cursecdn.com/static/img/18/players/173221.png
+83, 85, 51, Borja Valero, 20, 12-01-1985, CAM, https://futhead.cursecdn.com/static/img/18/players/161956.png
+82, 83, 80, Marcelo Brozovic, 77, 16-11-1992, CM, https://futhead.cursecdn.com/static/img/18/players/216352.png
+85, 85, 86, Radja Nainggolan, 4, 04-05-1988, CM, https://futhead.cursecdn.com/static/img/18/players/178518.png
+82, 63, 84, Milan Skriniar, 37, 11-02-1995, CB/RB, https://futhead.cursecdn.com/static/img/18/players/232363.png
+86, 68, 87, Stefan de Vrij, 3, 05-02-1992, CB, https://futhead.cursecdn.com/static/img/18/players/198176.png
+84, 57, 86, Miranda, 25, 07-09-1984, CB, https://futhead.cursecdn.com/static/img/18/players/168609.png
+79, 70, 80, Dalbert, 29, 08-09-1993, LB, https://futhead.cursecdn.com/static/img/18/players/229148.png
+88, 0, 88, Samir Handanovic, 1, 14-07-1984, DM, https://futhead.cursecdn.com/static/img/18/players/162835.png
+AC Milan, 55000000, 4-3-1-2, milan.png, Serie A
+83, 84, 58, Andre Silva, 9, 06-11-1995, SP, https://futhead.cursecdn.com/static/img/18/players/228941.png
+81, 83, 49, Patrick Cutrone, 63, 03-01-1998, SP, https://futhead.cursecdn.com/static/img/18/players/237715.png
+84, 85, 51, Suso, 8, 19-11-1993, RW/CAM, https://futhead.cursecdn.com/static/img/18/players/202651.png
+81, 78, 82, Franck Kessie, 79, 19-12-1996, CM, https://futhead.cursecdn.com/static/img/18/players/230938.png
+83, 84, 83, Giacomo Bonaventura, 5, 22-08-1989, CM, https://futhead.cursecdn.com/static/img/18/players/189125.png
+82, 68, 84, Lucas Biglia, 21, 30-01-1986, CVM, https://futhead.cursecdn.com/static/img/18/players/158963.png
+80, 68, 81, Ignazio Abate, 20, 12-11-1986, RB, https://futhead.cursecdn.com/static/img/18/players/168312.png
+87, 70, 88, Leonardo Bonucci, 19, 01-05-1987, CB, https://futhead.cursecdn.com/static/img/18/players/184344.png
+83, 58, 85, Alessio Romagnoli, 13, 12-01-1995, CB, https://futhead.cursecdn.com/static/img/18/players/210413.png
+82, 68, 83, Ricardo Rodriguez, 68, 25-08-1992, LB, https://futhead.cursecdn.com/static/img/18/players/193352.png
+86, 0, 86, Gianluigi Donnarumma, 99, 25-02-1999, DM, https://futhead.cursecdn.com/static/img/18/players/230621.png
+AS Monaco, 50000000, 4-3-3(D), monaco.png, Ligue 1
+83, 84, 59, Keita Balde Diao, 14, 08-03-1995, LW, https://futhead.cursecdn.com/static/img/18/players/215785.png
+84, 86, 54, Radamel Falcao, 9, 10-02-1986, SP, https://futhead.cursecdn.com/static/img/18/players/167397.png
+83, 84, 63, Rony Lopes, 20, 28-12-1995, RW, https://futhead.cursecdn.com/static/img/18/players/212692.png
+84, 85, 76, Joao Moutinho, 8, 08-09-1986, CM, https://futhead.cursecdn.com/static/img/18/players/162347.png
+82, 80, 82, Youri Tielemans, 17, 07-05-1997, CM, https://futhead.cursecdn.com/static/img/18/players/216393.png
+80, 70, 81, Soualiho Meite, 12, 17-03-1994, CVM, https://futhead.cursecdn.com/static/img/18/players/205391.png
+81, 78, 83, Djibril Sidibe, 19, 29-07-1992, RB, https://futhead.cursecdn.com/static/img/18/players/201042.png
+84, 60, 86, Kamil Glik, 25, 03-02-1988, CB, https://futhead.cursecdn.com/static/img/18/players/190547.png
+81, 52, 82, Jemerson, 5, 24-08-1992, CB, https://futhead.cursecdn.com/static/img/18/players/215792.png
+81, 70, 82, Jorge, 6, 28-03-1996, LB, https://futhead.cursecdn.com/static/img/18/players/229712.png
+85, 0, 85, Danijel Subasic, 1, 27-10-1984, DM, https://futhead.cursecdn.com/static/img/18/players/192593.png
+Bayer 04 Leverkusen, 35000000, 4-3-3(A), bayer04.png, Bundesliga
+84, 86, 60, Leon Bailey, 9, 09-08-1997, LW/SP, https://futhead.cursecdn.com/static/img/18/players/229906.png
+82, 84, 53, Kevin Volland, 31, 30-07-1992, SP, https://futhead.cursecdn.com/static/img/18/players/200610.png
+82, 84, 64, Karim Bellarabi, 38, 08-04-1990, RM/RW, https://futhead.cursecdn.com/static/img/18/players/202857.png
+82, 84, 70, Kai Havertz, 29, 11-06-1999, CAM, https://futhead.cursecdn.com/static/img/18/players/235790.png
+83, 65, 84, Lars Bender, 8, 27-04-1989, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/177457.png
+81, 80, 80, Charles Aranguiz, 20, 17-04-1989, CM, https://futhead.cursecdn.com/static/img/18/players/199042.png
+80, 70, 81, Benjamin Henrichs, 39, 23-02-1997, RB, https://futhead.cursecdn.com/static/img/18/players/228579.png
+83, 50, 85, Jonathan Tah, 4, 11-02-1996, CB, https://futhead.cursecdn.com/static/img/18/players/213331.png
+82, 63, 84, Sven Bender, 5, 27-04-1989, CB, https://futhead.cursecdn.com/static/img/18/players/177458.png
+80, 67, 80, Wendell, 18, 20-08-1993, LB, https://futhead.cursecdn.com/static/img/18/players/216466.png
+84, 0, 84, Lukas Hradecky, 1, 24-11-1989, DM, https://futhead.cursecdn.com/static/img/18/players/190941.png
+RB Leipzig, 40000000, 4-3-1-2, leipzig.png, Bundesliga
+81, 83, 59, Yussuf Poulsen, 9, 15-06-1994, SP, https://futhead.cursecdn.com/static/img/18/players/207791.png
+86, 87, 60, Timo Werner, 11, 06-03-1996, SP, https://futhead.cursecdn.com/static/img/18/players/212188.png
+84, 86, 68, Emil Forsberg, 10, 23-10-1991, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/208448.png
+81, 82, 72, Kevin Kampl, 44, 09-10-1990, CM, https://futhead.cursecdn.com/static/img/18/players/195365.png
+81, 82, 72, Marcel Sabitzer, 7, 17-03-1994, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/220971.png
+82, 65, 83, Diego Demme, 31, 21-11-1991, CVM, https://futhead.cursecdn.com/static/img/18/players/202325.png
+78, 72, 80, Lukas Klostermann, 16, 03-06-1996, RB, https://futhead.cursecdn.com/static/img/18/players/222331.png
+82, 64, 84, Willi Orban, 4, 03-11-1992, CB, https://futhead.cursecdn.com/static/img/18/players/204638.png
+82, 58, 84, Dayot Upamecano, 5, 27-10-1998, CB, https://futhead.cursecdn.com/static/img/18/players/229558.png
+80, 65, 81, Marcel Halstenberg, 23, 27-09-1991, LB, https://futhead.cursecdn.com/static/img/18/players/210665.png
+81, 0, 81, Peter Gulacsi, 32, 06-05-1990, DM, https://futhead.cursecdn.com/static/img/18/players/185122.png
+FC Sevilla, 35000000, 4-4-1-1, sevilla.png, La Liga
+82, 84, 54, Luis Muriel, 20, 16-04-1991, SP, https://futhead.cursecdn.com/static/img/18/players/199110.png
+83, 85, 48, Wissam Ben Yedder, 9, 12-08-1990, CF, https://futhead.cursecdn.com/static/img/18/players/199451.png
+81, 83, 63, Joaquin Correa, 11, 13-08-1994, LM/LW, https://futhead.cursecdn.com/static/img/18/players/215330.png
+84, 86, 65, Pablo Sarabia, 17, 11-05-1992, RM/RW, https://futhead.cursecdn.com/static/img/18/players/198950.png
+82, 83, 74, Ever Banega, 10, 29-06-1988, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/178562.png
+84, 64, 86, Steven N'Zonzi, 15, 15-12-1988, CVM, https://futhead.cursecdn.com/static/img/18/players/187936.png
+80, 72, 81, Sebastien Corchia, 2, 01-11-1990, RB, https://futhead.cursecdn.com/static/img/18/players/191210.png
+82, 56, 84, Clement Lenglet, 5, 17-06-1995, CB, https://futhead.cursecdn.com/static/img/18/players/220440.png
+83, 60, 85, Simon Kjaer, 4, 26-03-1989, CB, https://futhead.cursecdn.com/static/img/18/players/179645.png
+80, 69, 81, Sergio Escudero, 18, 02-09-1989, LB, https://futhead.cursecdn.com/static/img/18/players/192679.png
+84, 0, 84, Sergio Rico, 1, 01-09-1993, DM, https://futhead.cursecdn.com/static/img/18/players/206652.png
+FC Everton, 50000000, 4-3-1-2, everton.png, Premier League
+83, 84, 60, Cenk Tosun, 14, 07-06-1991, SP, https://futhead.cursecdn.com/static/img/18/players/192991.png
+80, 82, 58, Dominic Calvert-Lewin, 29, 16-03-1997, SP, https://futhead.cursecdn.com/static/img/18/players/221479.png
+83, 84, 67, Gylfi Sigurdsson, 18, 08-09-1989, CAM, https://futhead.cursecdn.com/static/img/18/players/184484.png
+82, 83, 78, Tom Davies, 26, 30-06-1998, CM, https://futhead.cursecdn.com/static/img/18/players/230005.png
+82, 65, 84, Idrissa Gueye, 17, 26-09-1989, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/193474.png
+82, 62, 84, Morgan Schneiderlin, 2, 08-11-1989, CVM, https://futhead.cursecdn.com/static/img/18/players/177358.png
+81, 76, 82, Seamus Coleman, 23, 11-10-1988, RB, https://futhead.cursecdn.com/static/img/18/players/180216.png
+82, 60, 84, Micheal Keane, 4, 11-01-1993, CB, https://futhead.cursecdn.com/static/img/18/players/207599.png
+83, 54, 85, Ashley Williams, 5, 23-08-1984, CB, https://futhead.cursecdn.com/static/img/18/players/163824.png
+83, 77, 83, Leighton Baines, 3, 11-12-1984, LB, https://futhead.cursecdn.com/static/img/18/players/163631.png
+84, 84, Jordan Pickford, 1, 07-03-1994, DM, https://futhead.cursecdn.com/static/img/18/players/204935.png
+Olympique Marseille, 30000000, 4-3-3(C), marseille.png, Ligue 1
+84, 85, 60, Dimitri Payet, 10, 29-03-1987, CAM/LW, https://futhead.cursecdn.com/static/img/18/players/177388.png
+83, 84, 58, Kostantinos Mitroglou, 11, 12-03-1988, SP, https://futhead.cursecdn.com/static/img/18/players/183483.png
+84, 85, 48, Florian Thauvin, 26, 26-01-1993, RW, https://futhead.cursecdn.com/static/img/18/players/204970.png
+80, 81, 78, Maxime Lopez, 27, 04-12-1997, CM, https://futhead.cursecdn.com/static/img/18/players/224030.png
+81, 80, 82, Morgan Sanson, 8, 18-08-1994, CM, https://futhead.cursecdn.com/static/img/18/players/210896.png
+82, 68, 84, Luiz Gustavo, 19, 23-07-1987, CVM, https://futhead.cursecdn.com/static/img/18/players/185221.png
+78, 57, 80, Hiroki Sakai, 2, 12-04-1990, RB, https://futhead.cursecdn.com/static/img/18/players/208520.png
+81, 56, 83, Adil Rami, 23, 27-12-1985, CB, https://futhead.cursecdn.com/static/img/18/players/183280.png
+80, 59, 82, Aymen Abdennour, 13, 06-08-1989, CB, https://futhead.cursecdn.com/static/img/18/players/198076.png
+80, 70, 81, Jordan Amavi, 18, 09-03-1994, LB, https://futhead.cursecdn.com/static/img/18/players/219681.png
+83, 0, 83, Steve Mandanda, 30, 28-03-1985, DM, https://futhead.cursecdn.com/static/img/18/players/163705.png
+Shakhtar Donetsk, 350000000, 4-3-3(A), shakhtar.png, Rest of the World
+83, 84, 60, Taison, 7, 13-01-1988, LW, https://futhead.cursecdn.com/static/img/18/players/188803.png
+78, 80, 53, Olarenwaju Kayode, 88, 08-05-1993, SP, https://futhead.cursecdn.com/static/img/18/players/213432.png
+84, 86, 61, Marlos, 11, 07-06-1988, RW/CAM, https://futhead.cursecdn.com/static/img/18/players/187754.png
+78, 80, 68, Wellington Nem, 12, 06-02-1992, CAM, https://futhead.cursecdn.com/static/img/18/players/203279.png
+80, 81, 75, Viktor Kovalenko, 74, 14-02-1996, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/228698.png
+80, 66, 82, Taras Stepanenko, 6, 08-08-1989, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/206413.png
+78, 70, 79, Bogdan Butko, 2, 13-01-1991, RB, https://futhead.cursecdn.com/static/img/18/players/206427.png
+78, 58, 80, Ivan Ordets, 18, 08-07-1992, CB, https://futhead.cursecdn.com/static/img/18/players/224811.png
+80, 56, 81, Yaroslav Rakitsky, 44, 03-08-1989, CB, https://futhead.cursecdn.com/static/img/18/players/195861.png
+81, 76, 82, Ismaily, 31, 11-01-1990, LB, https://futhead.cursecdn.com/static/img/18/players/201119.png
+82, 0, 82, Andriy Pyatov, 30, 28-06-1984, DM, https://futhead.cursecdn.com/static/img/18/players/142902.png
+Valencia, 32000000, 4-4-2, valencia.png, La Liga
+82, 83, 53, Simone Zaza, 9, 25-06-1991, SP, https://futhead.cursecdn.com/static/img/18/players/202685.png
+82, 84, 48, Rodrigo, 19, 06-03-1991, SP, https://futhead.cursecdn.com/static/img/18/players/198329.png
+82, 83, 61, Nani, 7, 17-11-1986, LM, https://futhead.cursecdn.com/static/img/18/players/139068.png
+80, 81, 65, Santi Mina, 22, 07-12-1995, RM/SP, https://futhead.cursecdn.com/static/img/18/players/212623.png
+83, 82, 84, Daniel Parejo, 10, 16-04-1989, CM, https://futhead.cursecdn.com/static/img/18/players/189513.png
+81, 65, 82, Geoffrey Kondogbia, 16, 15-02-1993, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/201455.png
+81, 73, 82, Martin Montoya, 21, 14-04-1991, RB, https://futhead.cursecdn.com/static/img/18/players/194644.png
+83, 45, 84, Ezequiel Garay, 24, 10-10-1986, CB, https://futhead.cursecdn.com/static/img/18/players/170481.png
+81, 52, 83, Jeison Murillo, 4, 27-05-1992, CB, https://futhead.cursecdn.com/static/img/18/players/201377.png
+81, 74, 83, Jose Gaya, 14, 25-05-1995, LB, https://futhead.cursecdn.com/static/img/18/players/211688.png
+83, 0, 83, Neto, 13, 19-07-1989, DM, https://futhead.cursecdn.com/static/img/18/players/194404.png
+SL Benfica, 25000000, 4-3-3(D), benfica.png, Liga NOS
+82, 84, 56, Franco Cervi, 22, 26-05-1994, LW, https://futhead.cursecdn.com/static/img/18/players/223061.png
+84, 86, 60, Jonas, 10, 01-04-1984, SP, https://futhead.cursecdn.com/static/img/18/players/176769.png
+82, 84, 53, Eduardo Salvio, 18, 13-07-1990, RW, https://futhead.cursecdn.com/static/img/18/players/190972.png
+83, 84, 81, Pizzi, 21, 06-10-1989, CM, https://futhead.cursecdn.com/static/img/18/players/197965.png
+80, 82, 60, Andrija Zivkovic, 17, 11-07-1996, CM/CAM/RM, https://futhead.cursecdn.com/static/img/18/players/220746.png
+82, 58, 84, Ljubomir Fejsa, 5, 14-08-1988, CVM, https://futhead.cursecdn.com/static/img/18/clubs/234.png
+78, 69, 80, Andre Almeida, 34, 10-09-1990, RB, https://futhead.cursecdn.com/static/img/18/players/194022.png
+81, 60, 83, Luisao, 4, 13-02-1981, CB, https://futhead.cursecdn.com/static/img/18/players/148711.png
+82, 56, 84, Jardel, 33, 29-03-1986, CB, https://futhead.cursecdn.com/static/img/18/players/168530.png
+82, 74, 84, Alejandro Grimaldo, 3, 20-09-1995, LB, https://futhead.cursecdn.com/static/img/18/players/210035.png
+83, 0, 83, Mile Svilar, 1, 27-08-1999, DM, https://futhead.cursecdn.com/static/img/18/players/230872.png
+FC Porto, 40000000, 4-4-2, porto.png, Liga NOS,
+82, 84, 56, Vincent Aboubakar, 9, 22-01-1992, SP, https://futhead.cursecdn.com/static/img/18/players/199069.png
+81, 83, 50, Tiquinho Soares, 29, 17-01-1991, SP, https://futhead.cursecdn.com/static/img/18/players/227476.png
+84, 86, 62, Yacine Brahimi, 8, 08-02-1990, LM/LW, https://futhead.cursecdn.com/static/img/18/players/184267.png
+81, 83, 59, Jesus Corona, 17, 06-01-1993, RM/RW, https://futhead.cursecdn.com/static/img/18/players/193165.png
+81, 80, 82, Hector Herrera, 16, 19-04-1990, CM, https://futhead.cursecdn.com/static/img/18/players/156519.png
+83, 68, 85, Danilo Pereira, 22, 09-09-1991, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/200888.png
+80, 74, 81, Maxi Pereira, 2, 08-06-1984, RB, https://futhead.cursecdn.com/static/img/18/players/182862.png
+81, 54, 83, Felipe, 28, 16-05-1989, CB, https://futhead.cursecdn.com/static/img/18/players/207863.png
+80, 78, 81, Miguel Layun, 3, 25-06-1988, CB/LB, https://futhead.cursecdn.com/static/img/18/players/178322.png
+82, 78, 83, Alex Telles, 13, 15-12-1992, LB, https://futhead.cursecdn.com/static/img/18/players/212462.png
+85, 0, 85, Iker Casillas, 1, 20-05-1981, DM, https://futhead.cursecdn.com/static/img/18/players/5479.png
+Sporting CP, 20000000, 4-3-3(C), sporting.png, Liga NOS
+81, 83, 60, Marcos Acuna, 9, 28-10-1991, LW/LM, https://futhead.cursecdn.com/static/img/18/players/224334.png
+84, 86, 50, Bas Dost, 28, 31-05-1989, SP, https://futhead.cursecdn.com/static/img/18/players/189068.png
+82, 84, 54, Gelson Martins, 77, 11-05-1995, RW, https://futhead.cursecdn.com/static/img/18/players/227055.png
+82, 84, 73, Bruno Fernandes, 8, 08-09-1994, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/212198.png
+80, 65, 81, Joao Palhina, 66, 09-07-1995, CVM, https://futhead.cursecdn.com/static/img/18/players/229391.png
+83, 60, 85, William Carvalho, 14, 07-04-1992, CVM, https://futhead.cursecdn.com/static/img/18/players/207566.png
+77, 70, 79, Cristiano Piccini, 92, 26-09-1992, RB, https://futhead.cursecdn.com/static/img/18/players/201939.png
+80, 60, 82, Jeremy Mathieu, 22, 29-10-1983, CB, https://futhead.cursecdn.com/static/img/18/players/112316.png
+80, 54, 82, Sebastian Coates, 4, 07-10-1990, CB, https://futhead.cursecdn.com/static/img/18/players/197655.png
+77, 70, 79, Jonathan Silva, 5, 29-06-1994, LB, https://futhead.cursecdn.com/static/img/18/players/215322.png
+83, 0, 83, Emiliano Viviano, 1, 01-12-1985, DM, https://futhead.cursecdn.com/static/img/18/players/168354.png
+SC Braga, 10000000, 4-4-2, braga.png, Liga NOS
+78, 80, 45, Dyego Sousa, 99, 14-09-1989, SP, https://futhead.cursecdn.com/static/img/18/players/224116.png
+78, 80, 52, Ahmed Hassan, 9, 05-03-1993, SP, https://futhead.cursecdn.com/static/img/18/players/210259.png
+79, 81, 56, Ricardo Horta, 21, 15-09-1994, LM, https://futhead.cursecdn.com/static/img/18/players/213516.png
+76, 78, 68, Fabio Martins, 26, 24-07-1993, LM/RM, https://futhead.cursecdn.com/static/img/18/players/224394.png
+76, 70, 77, Nikola Vukcevic, 35, 13-12-1991, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/221016.png
+76, 77, 73, Fransergio, 27, 18-10-1990, CM, https://futhead.cursecdn.com/static/img/18/players/195096.png
+78, 64, 80, Diogo Figueiras, 2, 01-07-1991, RB, https://futhead.cursecdn.com/static/img/18/players/204401.png
+80, 62, 82, Raul Silva, 34, 04-11-1989, CB, https://futhead.cursecdn.com/static/img/18/players/221540.png
+77, 56, 79, Ricardo Ferreira, 24, 25-12-1992, CB, https://futhead.cursecdn.com/static/img/18/players/210862.png
+76, 54, 78, Marcelo Goiano, 87, 13-10-1987, LB, https://futhead.cursecdn.com/static/img/18/players/216373.png
+80, 0, 80, Matheus, 1, 19-07-1992, DM, https://futhead.cursecdn.com/static/img/18/players/208104.png
+Vitoria Guimaraes, 12000000, 4-4-1-1, vitoria.png, Liga NOS
+77, 79, 56, Welthon, 9, 21-06-1992, SP, https://futhead.cursecdn.com/static/img/18/players/203774.png
+77, 78, 70, Paolo Hurtado, 16, 27-07-1990, CF/CAM, https://futhead.cursecdn.com/static/img/18/players/211124.png
+77, 75, 78, Alhassan Wakaso, 25, 07-01-1992, LM, https://futhead.cursecdn.com/static/img/18/players/200773.png
+77, 79, 60, Fabio Sturgeon, 71, 04-02-1994, LM/RM, https://futhead.cursecdn.com/static/img/18/players/217802.png
+80, 78, 81, Andre Andre, 8, 26-08-1989, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/199626.png
+76, 68, 78, Guillermo Celis, 93, 08-05-1993, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/214323.png
+76, 70, 77, Victor Garcia, 15, 11-06-1994, RB, https://futhead.cursecdn.com/static/img/18/players/217085.png
+76, 56, 77, Joao Afonso, 13, 28-05-1990, CB, https://futhead.cursecdn.com/static/img/18/players/223818.png
+74, 60, 76, Marcos Valente, 4, 04-02-1994, CB, https://futhead.cursecdn.com/static/img/18/players/235828.png
+76, 65, 78, Rafa Soares, 5, 09-05-1995, LB, https://futhead.cursecdn.com/static/img/18/players/218936.png
+78, 0, 78, Douglas Jesus, 1, 09-03-1983, DM, https://futhead.cursecdn.com/static/img/18/players/187570.png
+Celtic, 25000000, 4-4-1-1, celtic.png, Rest of the World
+82, 84, 54, Moussa Dembele, 10, 12-07-1996, SP, https://futhead.cursecdn.com/static/img/18/players/211591.png
+81, 83, 60, Leigh Griffiths, 9, 20-08-1990, SP/CF, https://futhead.cursecdn.com/static/img/18/players/202539.png
+80, 82, 53, Scott Sinclair, 11, 25-03-1989, LM, https://futhead.cursecdn.com/static/img/18/players/169214.png
+77, 79, 60, James Forrest, 49, 07-07-1991, RM, https://futhead.cursecdn.com/static/img/18/players/200630.png
+79, 72, 81, Scott Brown, 8, 25-06-1985, CM, https://futhead.cursecdn.com/static/img/18/players/134820.png
+77, 61, 78, Olivier Ntcham, 21, 09-02-1996, CM, https://futhead.cursecdn.com/static/img/18/players/218745.png
+78, 70, 80, Cristian Gamboa, 12, 24-10-1989, RB, https://futhead.cursecdn.com/static/img/18/players/198553.png
+76, 51, 78, Dedryck Boyata, 20, 28-11-1990, CB, https://futhead.cursecdn.com/static/img/18/players/197837.png
+78, 46, 80, Marvin Compper, 33, 14-06-1985, CB, https://futhead.cursecdn.com/static/img/18/players/170231.png
+80, 74, 81, Kieran Tierney, 63, 05-06-1997, LB, https://futhead.cursecdn.com/static/img/18/players/226491.png
+77, 0, 77, Craig Gordon, 1, 31-12-1982, DM, https://futhead.cursecdn.com/static/img/18/players/53110.png
+LA Galaxy, 35000000, 4-4-2, galaxy.png, MLS
+80, 81, 56, Ola Kamara, 11, 15-10-1989, SP, https://futhead.cursecdn.com/static/img/18/players/179551.png
+87, 88, 54, Zlatan Ibrahimovic, 9, 03-10-1981, SP, https://futhead.cursecdn.com/static/img/18/players/41236.png
+80, 82, 58, Giovanni dos Santos, 10, 11-05-1989, CF/LM, https://futhead.cursecdn.com/static/img/18/players/170369.png
+79, 81, 54, Romain Alessandrini, 7, 03-04-1989, RM, https://futhead.cursecdn.com/static/img/18/players/184575.png
+80, 75, 81, Jonathan dos Santos, 8, 26-04-1990, CM, https://futhead.cursecdn.com/static/img/18/players/170370.png
+73, 64, 74, Perry Kitchen, 2, 29-02-1992, CVM/CM, https://futFhead.cursecdn.com/static/img/18/players/202164.png
+72, 57, 74, Rolf Feltscher, 25, 06-10-1990, RB, https://futhead.cursecdn.com/static/img/18/players/183819.png
+73, 52, 75, Daniel Steres, 5, 11-11-1990, CB, https://futhead.cursecdn.com/static/img/18/players/209761.png
+74, 57, 76, Jorgen Skjelvik, 16, 05-07-1991, CB, https://futhead.cursecdn.com/static/img/18/players/188917.png
+76, 68, 78, Ashley Cole, 3, 20-12-1980, LB, https://futhead.cursecdn.com/static/img/18/players/34079.png
+74, 0, 74, David Bingham, 1, 19-10-1989, DM, https://futhead.cursecdn.com/static/img/18/players/202469.png
+Besiktas JK, 30000000, 4-3-3(C), besiktas.png, Super Lig
+82, 84, 60, Ryan Babel, 8, 19-12-1986, LM/LW, https://futhead.cursecdn.com/static/img/18/players/157301.png
+80, 82, 54, Alvaro Negredo, 9, 20-08-1985, SP, https://futhead.cursecdn.com/static/img/18/players/146439.png
+84, 86, 46, Ricardo Quaresma, 7, 26-09-1983, RW, https://futhead.cursecdn.com/static/img/18/players/20775.png
+80, 78, 80, Tolgay Arslan, 18, 16-08-1990, CM, https://futhead.cursecdn.com/static/img/18/players/190761.png
+81, 83, 79, Oguzhan Ozyakup, 10, 23-09-1992, CM, https://futhead.cursecdn.com/static/img/18/players/196934.png
+82, 65, 84, Gary Medel, 12, 03-08-1987, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/193532.png
+78, 67, 80, Gokhan Gonul, 77, 04-01-1985, RB, https://futhead.cursecdn.com/static/img/18/players/143699.png
+84, 60, 85, Pepe, 5, 26-02-1983, CB, https://futhead.cursecdn.com/static/img/18/players/120533.png
+80, 62, 82, Domagoj Vida, 24, 29-04-1989, CB, https://futhead.cursecdn.com/static/img/18/players/199206.png
+79, 70, 81, Caner Erkin, 88, 04-10-1988, LB, https://futhead.cursecdn.com/static/img/18/players/171875.png
+82, 0, 82, Fabricio, 1, 31-12-1987, DM, https://futhead.cursecdn.com/static/img/18/players/177723.png
+TSG 1899 Hoffenheim, 20000000, 3-5-2, hoffenheim.png, Bundesliga
+79, 81, 49, Ishak Belfodil, 19, 12-01-1992, SP, https://futhead.cursecdn.com/static/img/18/players/194728.png
+78, 80, 56, Adam Szalai, 22, 09-12-1987, SP, https://futhead.cursecdn.com/static/img/18/players/184789.png
+82, 84, 60, Andrej Kramaric, 27, 19-06-1991, SP/CAM, https://futhead.cursecdn.com/static/img/18/players/216354.png
+81, 78, 82, Steven Zuber, 17, 17-08-1991, LM/LB, https://futhead.cursecdn.com/static/img/18/players/190059.png
+78, 65, 80, Pavel Kaderabek, 3, 25-04-1992, RM/RB, https://futhead.cursecdn.com/static/img/18/players/203605.png
+81, 74, 82, Kerem Demirbay, 10, 03-07-1993, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/211748.png
+77, 65, 78, Lukas Rupp, 7, 08-01-1991, CVM, https://futhead.cursecdn.com/static/img/18/players/200469.png
+81, 57, 83, Kevin Vogt, 22, 23-09-1991, CB, https://futhead.cursecdn.com/static/img/18/players/192641.png
+79, 54, 80, Benjamin Hubner, 21, 04-07-1989, CB, https://futhead.cursecdn.com/static/img/18/players/189433.png
+77, 59, 79, Havard Nordtveit, 6, 21-06-1990, CB, https://futhead.cursecdn.com/static/img/18/players/182888.png
+84, 0, 84, Oliver Baumann, 1, 02-06-1990, DM, https://futhead.cursecdn.com/static/img/18/players/193698.png
+OGC Nice, 15000000, 4-3-3(D), nice.png, Ligue 1
+79, 81, 63, Bassem Srarfi, 11, 25-06-1997, LW, https://futhead.cursecdn.com/static/img/18/players/237600.png
+82, 84, 52, Mario Balotelli, 9, 12-08-1990, SP, https://futhead.cursecdn.com/static/img/18/players/186627.png
+80, 82, 47, Allan Saint-Maximin, 7, 12-03-1997, RW, https://futhead.cursecdn.com/static/img/18/players/216388.png
+80, 80, 81, Wylan Cyprien, 25, 28-01-1995, CM, https://futhead.cursecdn.com/static/img/18/players/212886.png
+78, 80, 68, Pierre Lees Melou, 8, 25-05-1993, CM, https://futhead.cursecdn.com/static/img/18/players/230020.png
+79, 64, 81, Danilo, 21, 28-02-1996, CVM, https://futhead.cursecdn.com/static/img/18/players/223517.png
+80, 71, 81, Arnaud Souquet, 2, 12-02-1992, RB, https://futhead.cursecdn.com/static/img/18/players/193470.png
+81, 62, 83, Dante, 31, 18-10-1983, CB, https://futhead.cursecdn.com/static/img/18/players/158625.png
+80, 54, 82, Malang Sarr, 23, 23-01-1999, CB, https://futhead.cursecdn.com/static/img/18/players/235454.png
+75, 56, 77, Racine Coly, 12, 08-11-1995, LB, https://futhead.cursecdn.com/static/img/18/players/222840.png
+81, 0, 81, Yoan Cardinale, 30, 27-03-1994, DM, https://futhead.cursecdn.com/static/img/18/players/221130.png
+Basaksehir FK, 20000000, 4-3-3(C), basaksehir.png, Super Lig
+80, 82, 53, Eljero Elia, 11, 13-02-1987, LW, https://futhead.cursecdn.com/static/img/18/players/172049.png
+79, 81, 47, Emmanuel Adebayor, 10, 26-02-1984, SP, https://futhead.cursecdn.com/static/img/18/players/53050.png
+80, 82, 58, Edin Visca, 7, 17-02-1990, RW, https://futhead.cursecdn.com/static/img/18/players/205678.png
+82, 84, 73, Arda Turan, 14, 30-01-1987, CM, https://futhead.cursecdn.com/static/img/18/players/143745.png
+79, 80, 75, Emre Belozoglu, 5, 07-09-1980, CM, https://futhead.cursecdn.com/static/img/18/players/80.png
+78, 70, 80, Gokhan Inler, 88, 27-06-1984, CVM, https://futhead.cursecdn.com/static/img/18/players/158810.png
+79, 72, 81, Junior Caicara, 80, 27-04-1989, RB, https://futhead.cursecdn.com/static/img/18/players/192427.png
+79, 56, 81, Aurelien Chedjou, 22, 20-06-1985, CB, https://futhead.cursecdn.com/static/img/18/players/183284.png
+76, 56, 78,  Manuel da Costa, 27, 06-05-1986, CB, https://futhead.cursecdn.com/static/img/18/players/177533.png
+79, 52, 81, Gael Clichy, 3, 26-07-1985, LB, https://futhead.cursecdn.com/static/img/18/players/152554.png
+82, 0, 82, Volkan Babacan, 1, 11-08-1988, DM, https://futhead.cursecdn.com/static/img/18/players/188524.png
+Fenerbahce, 25000000, 4-4-1-1, fenerbahce.png, Super Lig
+80, 82, 53, Roberto Soldado, 9, 27-05-1985, SP, https://futhead.cursecdn.com/static/img/18/players/146758.png
+82, 84, 56, Giuliano, 20, 31-05-1990, CF/CAM, https://futhead.cursecdn.com/static/img/18/players/184942.png
+81, 83, 47, Mathieu Valbuena, 28, 28-09-1984, LW/LM, https://futhead.cursecdn.com/static/img/18/players/177326.png
+78, 80, 60, Nabil Dirar, 17, 25-02-1986, RM, https://futhead.cursecdn.com/static/img/18/players/177525.png
+80, 64, 82, Mehmet Topal, 5, 03-03-1986, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/124635.png
+79, 60, 81, Souza, 89, 11-02-1989, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/189423.png
+78, 70, 80, Sener Ozbayrakli, 19, 23-01-1990, RB, https://futhead.cursecdn.com/static/img/18/players/223188.png
+81, 58, 83, Martin Skrtel, 37, 15-12-1984, CB, https://futhead.cursecdn.com/static/img/18/players/166706.png
+78, 54, 80, Roman Neustadter, 33, 18-02-1988, CB, https://futhead.cursecdn.com/static/img/18/players/186296.png
+79, 70, 81, Hasan Ali Kaldirim, 3, 09-12-1989, LB, https://futhead.cursecdn.com/static/img/18/players/125871.png
+82, 0, 82, Carlos Kameni, 18, 18-02-1984, DM, https://futhead.cursecdn.com/static/img/18/players/111661.png
+Galatasaray, 20000000, 4-4-1-1, galatasaray.png, Super Lig
+81, 83, 56, Batefimbi Gomis, 18, 06-08-1985, SP, https://futhead.cursecdn.com/static/img/18/players/159145.png
+81, 83, 62, Younes Belhanda, 10, 25-02-1990, CF/CAM, https://futhead.cursecdn.com/static/img/18/players/193738.png
+77, 79, 65, Garry Rodrigues, 24, 27-11-1990, LM, https://futhead.cursecdn.com/static/img/18/players/210212.png
+81, 83, 62, Sofiane Feghouli, 89, 26-12-1989, RM, https://futhead.cursecdn.com/static/img/18/players/184881.png
+79, 70, 80, Selcuk Inan, 8, 10-02-1985, CM, https://futhead.cursecdn.com/static/img/18/players/124607.png
+80, 62, 81, Fernando, 25, 25-07-1987, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/184134.png
+79, 70, 81, Mariano, 2, 23-06-1986, RB, https://futhead.cursecdn.com/static/img/18/players/184949.png
+80, 56, 82, Maicon, 3, 14-09-1988, CB, https://futhead.cursecdn.com/static/img/18/players/191687.png
+78, 62, 80, Serdar Aziz, 4, 23-10-1990, CB, https://futhead.cursecdn.com/static/img/18/players/220182.png
+76, 68, 78, Yuto Nagatomo, 55, 12-09-1986, LB, https://futhead.cursecdn.com/static/img/18/players/194359.png
+84, 0, 84, Fernando Muslera, 1, 16-06-1986, DM, https://futhead.cursecdn.com/static/img/18/players/182494.png
+Trabzonspor, 15000000, 4-3-3(A), trabzonspor.png, Super Lig
+78, 80, 54, Fabian Castillo, 11, 17-06-1992, LW, https://futhead.cursecdn.com/static/img/18/players/202858.png
+81, 83, 54, Burak Yilmaz, 17, 15-07-1985, SP, https://futhead.cursecdn.com/static/img/18/players/124375.png
+77, 79, 54, Olcay Sahan, 10, 26-05-1987, RW, https://futhead.cursecdn.com/static/img/18/players/189491.png
+79, 81, 73, Jose Sosa, 8, 19-06-1985, CM/CAM, https://futhead.cursecdn.com/static/img/18/players/143121.png
+78, 75, 80, Juraj Kucka, 33, 26-02-1987, CM, https://futhead.cursecdn.com/static/img/18/players/190875.png
+76, 68, 78, Ogenyi Onazi, 20, 25-12-1992, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/202934.png
+78, 52, 80, Joao Pereira, 47, 25-02-1984, RB, https://futhead.cursecdn.com/static/img/18/players/206407.png
+75, 54, 77, Mustafa Akbas, 25, 30-05-1990, CB, https://futhead.cursecdn.com/static/img/18/players/223135.png
+75, 60, 77, Filip Novak, 77, 26-06-1990, LB/CB, https://futhead.cursecdn.com/static/img/18/players/205364.png
+73, 63, 75, Luis Ibanez, 88, 15-07-1988, LB, https://futhead.cursecdn.com/static/img/18/players/188194.png
+82, 0, 82, Onur Kivrak, 1, 01-01-1988, DM, https://futhead.cursecdn.com/static/img/18/players/186953.png
+Olympiakos Piraeus, 10000000, 4-4-1-1, olympiakos.png, Rest of the World
+79, 81, 53, Karim Ansarifard, 17, 03-04-1990, SP, https://futhead.cursecdn.com/static/img/18/players/197136.png
+77, 79, 59, Konstantinos Fortounis, 7, 16-10-1992, CF/CAM, https://futhead.cursecdn.com/static/img/18/players/203980.png
+79, 81, 65, Daniel Podence, 11, 21-10-1995, LM/CF, hhttps://futhead.cursecdn.com/static/img/18/players/226766.png
+78, 80, 58, Felipe Pardo, 90, 17-08-1990, RM, https://futhead.cursecdn.com/static/img/18/players/214207.png
+79, 77, 80, Andre Martins, 8, 21-01-1990, CM, https://futhead.cursecdn.com/static/img/18/players/200962.png
+78, 65, 80, Panagiotis Tachtsidis, 13, 15-02-1991, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/190084.png
+77, 70, 79, Omar Elabdellaoui, 14, 05-12-1991, RB, https://futhead.cursecdn.com/static/img/18/players/190824.png
+75, 53, 77, Pape Abou Cisse, 66, 14-09-1995, CB, https://futhead.cursecdn.com/static/img/18/players/228386.png
+75, 56, 77, Roderick Miranda, 25, 30-03-1991, CB, https://futhead.cursecdn.com/static/img/18/players/193143.png
+78, 60, 80, Bjorn Engels, 40, 15-09-1994, CB/LB, https://futhead.cursecdn.com/static/img/18/players/210828.png
+80, 0, 80, Sylvio Proto, 24, 23-05-1983, DM, https://futhead.cursecdn.com/static/img/18/players/47201.png
+Club Brugge, 10000000, 3-5-2, brugge.png, Pro League
+76, 78, 53, Jelle Vossen, 9, 22-03-1989, SP, https://futhead.cursecdn.com/static/img/18/players/176137.png
+76, 78, 56, Abdoulay Diaby, 10, 21-05-1991, SP, https://futhead.cursecdn.com/static/img/18/players/202330.png
+79, 81, 62, Hans Vanaken, 20, 24-08-1992, CAM, https://futhead.cursecdn.com/static/img/18/players/200155.png
+78, 80, 56, Anthony Limbombe, 17, 15-07-1994, LM, https://futhead.cursecdn.com/static/img/18/players/201938.png
+77, 79, 58, Lior Rafaelov, 8, 26-04-1986, RM, https://futhead.cursecdn.com/static/img/18/players/164878.png
+78, 72, 80, Marvelous Nakamba, 24, 19-01-1994, CVM, https://futhead.cursecdn.com/static/img/18/players/222994.png
+80, 70, 82, Ruud Vormer, 25, 11-05-1988, CVM, https://futhead.cursecdn.com/static/img/18/players/178415.png
+77, 60, 79, Stefano Denswil, 24, 27-05-1993, CB, https://futhead.cursecdn.com/static/img/18/players/205756.png
+75, 46, 77, Alexander Scholz, 2, 24-10-1992, CB, https://futhead.cursecdn.com/static/img/18/players/212253.png
+75, 56, 77, Saulo Decarli, 35, 04-02-1992, CB, https://futhead.cursecdn.com/static/img/18/players/213323.png
+76, 0, 76, Ethan Horvath, 22, 09-06-1995, DM, https://futhead.cursecdn.com/static/img/18/players/219736.png
+KAA Gent, 5000000, 4-3-3(D), gent.png, Pro League
+76, 78, 60, Moses Simon, 27, 12-07-1995, LW/SP, https://futhead.cursecdn.com/static/img/18/players/216820.png
+78, 80, 54, Yuya Kubo, 31, 24-12-1993, SP, https://futhead.cursecdn.com/static/img/18/players/217242.png
+75, 77, 57, Samuel Kalu, 18, 26-08-1997, RW, https://futhead.cursecdn.com/static/img/18/players/237207.png
+79, 77, 80, Vadis Odjidja-Ofoe, 8, 21-02-1989, CM, https://futhead.cursecdn.com/static/img/18/players/175895.png
+76, 78, 70, Birgir Dejaegere, 19, 16-04-1994, CM/CAM, https://futhead.cursecdn.com/static/img/18/players/201043.png
+79, 74, 80, Renato Neto, 10, 27-09-1991, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/199663.png
+74, 72, 76, Thomas Foket, 32, 25-09-1994, RB/RM, https://futhead.cursecdn.com/static/img/18/players/208509.png
+77, 62, 79, Nana Asare, 21, 11-07-1986, CB/LB, https://futhead.cursecdn.com/static/img/18/players/158375.png
+74, 49, 76, Sigurd Rosted, 4, 22-07-1994, CB, https://futhead.cursecdn.com/static/img/18/players/227362.png
+72, 61, 74, Thibault de Smet, 29, 05-06-1998, LB, https://futhead.cursecdn.com/static/img/18/players/237331.png
+79, 0, 79, Lovre Kalinic, 91, 03-04-1990, DM, https://futhead.cursecdn.com/static/img/18/players/220932.png
+RSC Anderlecht, 12000000, 4-3-3(D), anderlecht.png, Pro League
+73, 75, 49, Knowledge Musona, 11, 21-06-1990, LW, https://futhead.cursecdn.com/static/img/18/players/194171.png
+80, 82, 58, Lukasz Teodorczyk, 91, 03-06-1991, SP, https://futhead.cursecdn.com/static/img/18/players/201013.png
+75, 77, 54, Zakaria Bakkali, 99, 26-01-1996, RW, https://futhead.cursecdn.com/static/img/18/players/208790.png
+76, 77, 70, Adrien Trebel, 25, 03-03-1991, CM, https://futhead.cursecdn.com/static/img/18/players/203886.png
+75, 64, 77, Sven Kums, 20, 26-02-1988, CVM, https://futhead.cursecdn.com/static/img/18/players/176009.png
+82, 74, 84, Leander Dendoncker, 32, 15-04-1995, CVM/CB, https://futhead.cursecdn.com/static/img/18/players/212501.png
+74, 72, 76, Andy Najar, 7, 16-03-1993, RB, https://futhead.cursecdn.com/static/img/18/players/198705.png
+75, 54, 77, Josue Sa, 2, 17-06-1992, CB, https://futhead.cursecdn.com/static/img/18/players/212889.png
+77, 59, 79, Kara Mbodj, 4, 11-11-1989, CB, https://futhead.cursecdn.com/static/img/18/players/198584.png
+75, 73, 76, Ivan Obradovic, 37, 25-07-1988, LB, https://futhead.cursecdn.com/static/img/18/players/191198.png
+76, 0, 76, Thomas Didillon, 16, 28-11-1995, DM, https://futhead.cursecdn.com/static/img/18/players/219793.png
+Standard Luik, 6000000, 4-4-1-1, luik.png, Pro League
+74, 76, 56, Duje Cop, 7, 01-02-1990, SP, https://futhead.cursecdn.com/static/img/18/players/189536.png
+74, 75, 70, Carlinhos, 25, 22-06-1994, CF, https://futhead.cursecdn.com/static/img/18/players/209828.png
+75, 77, 60, Paul-Jose Mpoku, 40, 19-04-1992, LM/CAM, https://futhead.cursecdn.com/static/img/18/players/187858.png
+78, 80, 59, Mehdi Carcela-Gonzalez, 10, 01-07-1989, RM, https://futhead.cursecdn.com/static/img/18/players/184089.png
+75, 76, 76, Gojko Cimirot, 6, 19-12-1992, CM, https://futhead.cursecdn.com/static/img/18/players/230850.png
+76, 77, 70, Razvan Marin, 18, 23-05-1996, CM, https://futhead.cursecdn.com/static/img/18/players/235813.png
+75, 70, 77, Luis Pedro Cavanda, 29, 02-01-1991, RB, https://futhead.cursecdn.com/static/img/18/players/200434.png
+74, 68, 76, Christian Luyindama, 26, 08-01-1994, CB, https://futhead.cursecdn.com/static/img/18/players/237556.png
+75, 54, 77, Konstantinos Laifis, 34, 19-05-1993, CB, https://futhead.cursecdn.com/static/img/18/players/234774.png
+74, 60, 76, Collins Fai, 21, 13-08-1992, LB/RB, https://futhead.cursecdn.com/static/img/18/players/232183.png
+82, 0, 82, Guillermo Ochoa, 13, 13-07-1985, DM, https://futhead.cursecdn.com/static/img/18/players/140233.png
+KRC Genk, 9000000, 4-3-1-2, genk.png, Pro League
+75, 77, 50, Mbwana Samatta, 10, 23-12-1992, SP, https://futhead.cursecdn.com/static/img/18/players/218066.png
+74, 76, 60, Nikolaus Karelis, 7, 24-02-1992, SP, https://futhead.cursecdn.com/static/img/18/players/210947.png
+79, 81, 63, Alejandro Pozuelo, 24, 20-09-1991, CAM, https://futhead.cursecdn.com/static/img/18/players/203895.png
+76, 78, 65, Ruslan Malinovskyi, 18, 04-05-1993, CM, https://futhead.cursecdn.com/static/img/18/players/231969.png
+75, 68, 77, Ibrahima Seck, 17, 10-08-1989, CM, https://futhead.cursecdn.com/static/img/18/players/215391.png
+74, 63, 76, Sander Berge, 25, 14-02-1998, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/228092.png
+72, 69, 74, Joakim Maehle, 31, 20-05-1997, RB, https://futhead.cursecdn.com/static/img/18/players/234678.png
+74, 60, 76, Jakub Branec, 2, 06-08-1992, CB, https://futhead.cursecdn.com/static/img/18/players/204121.png
+74, 54, 76, Sebastien Dewaest, 6, 27-05-1991, CB, https://futhead.cursecdn.com/static/img/18/players/184183.png
+73, 68, 75, Jere Uronen, 21, 13-07-1994, LB, https://futhead.cursecdn.com/static/img/18/players/207593.png
+75, 0, 75, Danny Vukovic, 1, 27-03-1985, DM, https://futhead.cursecdn.com/static/img/18/players/181481.png
+FC Krasnodar, 24000000, 4-3-3(D), krasnodar.png, Premier Liga
+74, 76, 59, Wanderson, 7, 07-10-1994, LW, https://futhead.cursecdn.com/static/img/18/players/210872.png
+82, 84, 53, Fedor Smolov, 10, 09-02-1990, SP, https://futhead.cursecdn.com/static/img/18/players/187491.png
+78, 80, 56, Pavel Mamaev, 17, 17-09-1988, RW, https://futhead.cursecdn.com/static/img/18/players/187736.png
+78, 80, 60, Mauricio Pereyra, 33, 15-03-1990, CM/CAM, https://futhead.cursecdn.com/static/img/18/players/204691.png
+76, 68, 78, Yuri Gazinskiy, 8, 20-07-1989, CVM, https://futhead.cursecdn.com/static/img/18/players/216335.png
+78, 76, 80, Charles Kabore, 77, 09-02-1988, CVM, https://futhead.cursecdn.com/static/img/18/players/179768.png
+76, 68, 78, Roman Shishkin, 30, 27-01-1987, RB, https://futhead.cursecdn.com/static/img/18/players/167549.png
+79, 60, 81, Sidnei, 3, 23-08-1989, CB, https://futhead.cursecdn.com/static/img/18/players/182002.png
+77, 54, 79, Aleksandr Martynovich, 4, 26-08-1987, CB, https://futhead.cursecdn.com/static/img/18/players/203625.png
+77, 75, 79, Renat Yanbaev, 55, 07-04-1984, LB/RB, https://futhead.cursecdn.com/static/img/18/players/148253.png
+81, 0, 81, Stanislav Kritsyuk, 1, 01-12-1990, DM, https://futhead.cursecdn.com/static/img/18/players/213150.png
+Spartak Moskou, 16000000, 4-4-1-1, spartak.png, Premier Liga
+79, 81, 60, Luiz Adriano, 12, 12-04-1987, SP, https://futhead.cursecdn.com/static/img/18/players/180826.png
+79, 80, 65, Sofiane Hanni, 30, 29-12-1990, CF, https://futhead.cursecdn.com/static/img/18/players/188536.png
+83, 85, 60, Quincy Promes, 10, 04-01-1992, LM/RM, https://futhead.cursecdn.com/static/img/18/players/208808.png
+78, 80, 67, Aleksandr Samedov, 19, 19-07-1984, RM, https://futhead.cursecdn.com/static/img/18/players/147621.png
+80, 74, 82, Fernando, 11, 03-03-1992, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/202642.png
+77, 76, 77, Roman Zobnin, 47, 11-02-1994, CM, https://futhead.cursecdn.com/static/img/18/players/213160.png
+76, 69, 78, Andrey Eshchenko, 38, 09-02-1984, RB, https://futhead.cursecdn.com/static/img/18/players/170923.png
+79, 62, 81, Salvatore Bocchetti, 16, 30-11-1986, CB, https://futhead.cursecdn.com/static/img/18/players/168326.png
+75, 53, 77, Ilya Kutepov, 29, 29-07-1993, CB, https://futhead.cursecdn.com/static/img/18/players/210468.png
+74, 69, 76, Dmitri Kombarov, 23, 22-01-1987, LB, https://futhead.cursecdn.com/static/img/18/players/187492.png
+80, 0, 80, Aleksandr Selikhov, 57, 07-04-1994, DM, https://futhead.cursecdn.com/static/img/18/players/213732.png
+Lokomotiv Moskou, 18000000, 4-4-1-1, lokomotiv.png, Premier Liga
+78, 80, 53, Eder, 24, 22-12-1987, SP, https://futhead.cursecdn.com/static/img/18/players/189795.png
+81, 83, 54, Jefferson Farfan, 8, 26-10-1984, RW/CF, https://futhead.cursecdn.com/static/img/18/players/158133.png
+81, 83, 74, Manuel Fernandes, 4, 05-02-1986, CAM/LM, https://futhead.cursecdn.com/static/img/18/players/157960.png
+79, 81, 60, Aleksey Miranchuk, 59, 17-10-1995, CAM/RM, https://futhead.cursecdn.com/static/img/18/players/214092.png
+76, 68, 78, Dmitri Tarasov, 23, 18-03-1987, CM, https://futhead.cursecdn.com/static/img/18/players/187659.png
+79, 70, 80, Igor Denisov, 27, 17-05-1984, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/147782.png
+75, 72, 76, Maciej Rybus, 31, 19-08-1989, RB/LB, https://futhead.cursecdn.com/static/img/18/players/186347.png
+75, 56, 77, Solomon Kvirkvelia, 33, 06-02-1992, CB, https://futhead.cursecdn.com/static/img/18/players/205469.png
+82, 60, 84, Vedran Corluka, 14, 05-02-1986, CB, https://futhead.cursecdn.com/static/img/18/players/181786.png
+80, 75, 82, Vitali Denisov, 29, 23-02-1987, LB, https://futhead.cursecdn.com/static/img/18/players/167553.png
+82, 0, 82, Guilherme, 1, 12-12-1985, DM, https://futhead.cursecdn.com/static/img/18/players/180714.png
+CSKA Moskou, 30000000, 3-5-2, cska.png, Premier Liga
+75, 77, 56, Fedor Chalov, 9, 10-04-1998, SP, https://futhead.cursecdn.com/static/img/18/players/235029.png
+79, 81, 58, Vitinho, 11, 09-10-1993, SP/CF, https://futhead.cursecdn.com/static/img/18/players/208008.png
+81, 83, 72, Aleksandr Golovin, 17, 30-05-1996, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/225663.png
+80, 81, 75, Alan Dzagoev, 10, 17-06-1990, CM/LM, https://futhead.cursecdn.com/static/img/18/players/187735.png
+80, 72, 82, Mario Fernandes, 2, 19-09-1990, RM/RB, https://futhead.cursecdn.com/static/img/18/players/193525.png
+77, 70, 79, Pontus Wernblom, 3, 25-06-1986, CVM, https://futhead.cursecdn.com/static/img/18/players/176731.png
+78, 67, 80, Bibras Natcho, 66, 18-02-1988, CVM, https://futhead.cursecdn.com/static/img/18/players/198648.png
+73, 54, 75, Hordur Magnusson, 23, 11-02-1993, CB, https://futhead.cursecdn.com/static/img/18/players/208522.png
+77, 56, 79, Viktor Vasin, 5, 06-10-1988, CB, https://futhead.cursecdn.com/static/img/18/players/187517.png
+72, 61, 74, Kirill Nababkin, 14, 08-09-1986, LB/CB, https://futhead.cursecdn.com/static/img/18/players/167601.png
+81, 0, 81, Igor Akinfeev, 35, 08-04-1986, DM, https://futhead.cursecdn.com/static/img/18/players/148119.png
+Zenit Sint Petersburg, 35000000, 4-3-3(D), zenit.png, Premier Liga
+80, 82, 59, Oleg Shatov, 18, 29-07-1990, LW/CAM, https://futhead.cursecdn.com/static/img/18/players/206273.png
+80, 82, 56, Aleksandr Kokorin, 9, 19-03-1991, SP, https://futhead.cursecdn.com/static/img/18/players/192086.png
+81, 83, 54, Emiliano Rigoni, 10, 04-02-1993, RW, https://futhead.cursecdn.com/static/img/18/players/215259.png
+76, 78, 57, Daler Kuzyaev, 14, 15-01-1993, CM, https://futhead.cursecdn.com/static/img/18/players/223058.png
+78, 65, 80, Matias Kranevitter, 8, 21-05-1993, CVM, https://futhead.cursecdn.com/static/img/18/players/214977.png
+80, 77, 82, Leandro Paredes, 5, 29-06-1994, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/207439.png
+79, 70, 81, Igor Smolnikov, 19, 08-08-1988, RB, https://futhead.cursecdn.com/static/img/18/players/187347.png
+81, 64, 83, Branislav Ivanovic, 60, 22-02-1984, CB, https://futhead.cursecdn.com/static/img/18/players/178372.png
+78, 52, 80, Emanuel Mammana, 30, 10-02-1996, CB, https://futhead.cursecdn.com/static/img/18/players/221551.png
+73, 66, 75, Elmir Nabiullin, 15, 08-03-1995, LB, https://futhead.cursecdn.com/static/img/18/players/222265.png
+80, 0, 80, Andrey Lunev, 99, 13-11-1991, DM, https://futhead.cursecdn.com/static/img/18/players/229909.png
+Fulham, 10000000, 4-3-3(C), fulham.png, EFL Championship
+79, 81, 78, Ryan Sessegnon, 3, 18-05-2000, LW/LB, https://futhead.cursecdn.com/static/img/18/players/235883.png
+78, 80, 54, Aleksandar Mitrovic, 32, 16-09-1994, SP, https://futhead.cursecdn.com/static/img/18/players/215716.png
+75, 77, 68, Floyd Ayite, 11, 15-12-1988, RW/LW, https://futhead.cursecdn.com/static/img/18/players/188271.png
+79, 80, 76, Tom Cairney, 10, 20-01-1991, CM, https://futhead.cursecdn.com/static/img/18/players/195202.png
+83, 84, 80, Jean Micheal Seri, 6, 19-07-1991, CM, https://futhead.cursecdn.com/static/img/18/players/216451.png
+76, 77, 75, Stefan Johansen, 8, 08-01-1991, CVM, https://futhead.cursecdn.com/static/img/18/players/187043.png
+75, 70, 77, Denis Odoi, 4, 27-05-1988, RB, https://futhead.cursecdn.com/static/img/18/players/185349.png
+77, 63, 79, Tomas Kalas, 26, 15-05-1993, CB, https://futhead.cursecdn.com/static/img/18/players/201122.png
+78, 56, 80, Maxime Le Marchand, 20, 11-10-1989, CB/LB, https://futhead.cursecdn.com/static/img/18/players/192725.png
+74, 67, 76, Matt Targett, 21, 18-09-1995, LB, https://futhead.cursecdn.com/static/img/18/players/218659.png
+75, 0, 75, Marcus Bettinelli, 2, 24-05-1992, DM, https://futhead.cursecdn.com/static/img/18/players/204246.png
+Hull City, 7000000, 4-3-2-1, hull.png, EFL Championship
+76, 78, 63, Kamil Grosicki, 7, 08-06-1988, LW/LF, https://futhead.cursecdn.com/static/img/18/players/177922.png
+73, 75, 51, Nouha Dicko, 9, 14-05-1992, SP, https://futhead.cursecdn.com/static/img/18/players/205559.png
+75, 76, 70, Jarrod Bowen, 20, 20-12-1996, RW/RF, https://futhead.cursecdn.com/static/img/18/players/224371.png
+75, 77, 70, Markus Henriksen, 22, 25-07-1992, CM, https://futhead.cursecdn.com/static/img/18/players/190549.png
+74, 76, 63, Evandro, 15, 23-08-1986, CM, https://futhead.cursecdn.com/static/img/18/players/166080.png
+72, 70, 74, Kevin Stewart, 35, 07-09-1993, CM, https://futhead.cursecdn.com/static/img/18/players/206538.png
+74, 68, 76, Eric Lichaj, 2, 17-11-1988, RB, https://futhead.cursecdn.com/static/img/18/players/184456.png
+71, 54, 73, Ondrej Mazuch, 3, 15-03-1989, CB, https://futhead.cursecdn.com/static/img/18/players/120312.png
+73, 56, 75, Jordy de Wijs, 5, 08-01-1995, CB, https://futhead.cursecdn.com/static/img/18/players/224186.png
+73, 64, 75, Stephen Kingsley, 28, 23-07-1994, LB, https://futhead.cursecdn.com/static/img/18/players/223747.png
+76, 0, 76, David Marshall, 12, 05-03-1985, DM, https://futhead.cursecdn.com/static/img/18/players/140498.png
+Norwich City, 8000000, 4-3-1-2, norwich.png, EFL Championship
+76, 78, 56, Nelson Oliveira, 9, 08-09-1991, SP, https://futhead.cursecdn.com/static/img/18/players/189303.png
+73, 75, 53, Dennis Srbeny, 32, 05-05-1994, SP, https://futhead.cursecdn.com/static/img/18/players/239097.png
+74, 76, 61, Emiliano Buendia, 10, 25-12-1996, CAM, https://futhead.cursecdn.com/static/img/18/players/226162.png
+73, 65, 75, Mario Vrancic, 8, 23-05-1989, CM, https://futhead.cursecdn.com/static/img/18/players/177896.png
+75, 76, 73, Moritz Leitner, 10, 08-12-1992, CM, https://futhead.cursecdn.com/static/img/18/players/200857.png
+75, 70, 77, Alexander Tettey, 27, 04-04-1986, CVM, https://futhead.cursecdn.com/static/img/18/players/152567.png
+74, 67, 76, Ivo Pinto, 2, 07-01-1990, RB, https://futhead.cursecdn.com/static/img/18/players/197860.png
+76, 52, 78, Timm Klose, 15, 09-05-1988, CB, https://futhead.cursecdn.com/static/img/18/players/199383.png
+74, 58, 76, Grant Hanley, 31, 20-11-1991, CB, https://futhead.cursecdn.com/static/img/18/players/198904.png
+71, 65, 73, James Husband, 3, 03-01-1994, LB, https://futhead.cursecdn.com/static/img/18/players/205596.png
+73, 0, 73, Micheal McGovern, 33, 12-07-1984, DM, https://futhead.cursecdn.com/static/img/18/players/163201.png
+Aston Villa, 15000000, 3-5-2, villa.png, EFL Championship
+76, 78, 56, Jonathan Kodjia, 22, 22-10-1989, SP, https://futhead.cursecdn.com/static/img/18/players/189099.png
+75, 77, 60, Ross McCormack, 44, 18-08-1986, SP/CF, https://futhead.cursecdn.com/static/img/18/players/155979.png
+76, 78, 60, Jack Grealish, 10, 10-09-1995, CAM, https://futhead.cursecdn.com/static/img/18/players/206517.png
+75, 76, 74, Birkir Bjarnason, 20, 27-05-1988, LM, https://futhead.cursecdn.com/static/img/18/players/175789.png
+74, 65, 75, Richie de Laet, 2, 28-11-1988, RM/RB, https://futhead.cursecdn.com/static/img/18/players/175932.png
+76, 64, 78, Glenn Whelan, 6, 13-01-1984, CVM, https://futhead.cursecdn.com/static/img/18/players/163303.png
+77, 62, 79, Mile Jedinak, 15, 03-08-1984, CVM, https://futhead.cursecdn.com/static/img/18/players/181483.png
+79, 52, 81, Tommy Elphick, 4, 07-09-1987, CB, https://futhead.cursecdn.com/static/img/18/players/180635.png
+78, 56, 80, James Chester, 5, 23-01-1989, CB, https://futhead.cursecdn.com/static/img/18/players/186130.png
+77, 59, 79, Micah Richards, 17, 24-06-1988, CB, https://futhead.cursecdn.com/static/img/18/players/169721.png
+75, 0, 75, Mark Bunn, 31, 16-11-1984, DM, https://futhead.cursecdn.com/static/img/18/players/162054.png
+Wolverhampton Wanderers, 15000000, 5-2-3, wolves.png, EFL Championship
+80, 82, 56, Diogo Jota, 18, 04-12-1996, LW, https://futhead.cursecdn.com/static/img/18/players/224458.png
+79, 81, 54, Raul Jimenez, 9, 05-05-1991, SP, https://futhead.cursecdn.com/static/img/18/players/202052.png
+79, 81, 57, Ivan Cavaleiro, 7, 18-10-1993, RW, https://futhead.cursecdn.com/static/img/18/players/212267.png
+82, 83, 82, Ruben Neves, 8, 13-03-1997, CM, https://futhead.cursecdn.com/static/img/18/players/224293.png
+77, 69, 79, Romain Saiss, 27, 25-03-1990, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/188879.png
+78, 74, 80, Barry Douglas, 3, 04-09-1989, LWB/LB, https://futhead.cursecdn.com/static/img/18/players/200443.png
+74, 67, 75, Matt Doherty, 2, 16-01-1992, RWB, https://futhead.cursecdn.com/static/img/18/players/201417.png
+75, 56, 77, Conor Coady, 16, 25-02-1993, CB, https://futhead.cursecdn.com/static/img/18/players/202048.png
+77, 53, 79, Willy Boly, 15, 03-02-1991, CB, https://futhead.cursecdn.com/static/img/18/players/202750.png
+74, 54, 76, Danny Bath, 6, 21-09-1990, CB, https://futhead.cursecdn.com/static/img/18/players/195037.png
+83, 0, 83, Rui Patricio, 13, 15-02-1988, DM, https://futhead.cursecdn.com/static/img/18/players/178005.png
+Boca Juniors, 18000000, 4-3-3(A), boca.png, Rest of the World
+78, 80, 54, Edwin Cardona, 10, 08-12-1992, CAM/LW, https://futhead.cursecdn.com/static/img/18/players/192342.png
+80, 82, 48, Dario Benedetto, 9, 17-05-1990, SP, https://futhead.cursecdn.com/static/img/18/players/215061.png
+81, 83, 56, Cristian Pavon, 7, 21-01-1996, RW, https://futhead.cursecdn.com/static/img/18/players/224254.png
+80, 82, 60, Carlos Tevez, 32, 05-02-1984, CAM/CF, https://futhead.cursecdn.com/static/img/18/players/143001.png
+79, 65, 80, Fernando Gago, 5, 10-04-1986, CVM/CM, https://futhead.cursecdn.com/static/img/18/players/165517.png
+77, 70, 79, Pablo Perez, 8, 10-08-1985, CM, https://futhead.cursecdn.com/static/img/18/players/215079.png
+75, 69, 77, Leonardo Jara, 29, 20-05-1991, RB, https://futhead.cursecdn.com/static/img/18/players/215331.png
+76, 53, 78, Santiago Vergini, 27, 03-08-1988, CB, https://futhead.cursecdn.com/static/img/18/players/204050.png
+77, 51, 79, Paolo Goltz, 2, 12-05-1985, CB, https://futhead.cursecdn.com/static/img/18/players/214763.png
+80, 76, 81, Frank Fabra, 18, 22-02-1991, LB, https://futhead.cursecdn.com/static/img/18/players/214040.png
+77, 0, 77, Guillermo Sara, 1, 30-09-1987, DM, https://futhead.cursecdn.com/static/img/18/players/215212.png
+Seattle Sounders, 9000000, 4-3-3(C), sounders.png, MLS
+70, 72, 59, Lamar Neagle, 27, 07-05-1987, LW, https://futhead.cursecdn.com/static/img/18/players/193246.png
+79, 81, 60, Clint Dempsey, 2, 08-03-1983, SP/CF, https://futhead.cursecdn.com/static/img/18/players/155897.png
+78, 80, 52, Nicolas Lodeiro, 10, 21-03-1989, CAM/RW, https://futhead.cursecdn.com/static/img/18/players/197225.png
+77, 78, 60, Victor Rodriguez, 8, 23-07-1989, CM/CAM, https://futhead.cursecdn.com/static/img/18/players/211017.png
+75, 76, 70, Cristian Roldan, 7, 03-06-1995, CM, https://futhead.cursecdn.com/static/img/18/players/226807.png
+77, 60, 79, Osvaldo Alonso, 6, 11-11-1985, CVM, https://futhead.cursecdn.com/static/img/18/players/190971.png
+70, 62, 72, Kelvin Leerdam, 18, 24-06-1990, RB, https://futhead.cursecdn.com/static/img/18/players/193561.png
+74, 53, 76, Chad Marshall, 14, 22-08-1984, CB, https://futhead.cursecdn.com/static/img/18/players/152883.png
+76, 57, 78, Roman Torres, 29, 20-03-1986, CB, https://futhead.cursecdn.com/static/img/18/players/214506.png
+68, 64, 70, Nouhou Tolo, 5, 23-06-1997, LB, https://futhead.cursecdn.com/static/img/18/players/237469.png
+77, 0, 77, Stefan Frei, 24, 20-04-1986, DM, https://futhead.cursecdn.com/static/img/18/players/190569.png
+New York City, 12000000, 3-5-2, nycity.png, MLS
+82, 84, 53, David Villa, 7, 03-12-1981, SP, https://futhead.cursecdn.com/static/img/18/players/113422.png
+73, 75, 53, Jo Inge Berget, 9, 11-09-1990, SP, https://futhead.cursecdn.com/static/img/18/players/183339.png
+76, 78, 47, Maxi Moralez, 10, 27-02-1987, CAM, https://futhead.cursecdn.com/static/img/18/players/183895.png
+74, 68, 76, Ronald Mataritta, 22, 09-07-1994, LM/LB, https://futhead.cursecdn.com/static/img/18/players/232230.png
+73, 69, 75, Anton Tinnerholm, 3, 09-07-1991, RM/RB, https://futhead.cursecdn.com/static/img/18/players/199131.png
+75, 58, 77, Ebenezer Ofori, 12, 01-07-1995, CVM, https://futhead.cursecdn.com/static/img/18/players/219510.png
+74, 73, 75, Alexander Ring, 8, 09-04-1991, CVM, https://futhead.cursecdn.com/static/img/18/players/205895.png
+74, 60, 76, Alexander Callens, 6, 04-05-1992, CB, https://futhead.cursecdn.com/static/img/18/players/211522.png
+73, 54, 75, Maxime Chanot, 4, 21-11-1989, CB, https://futhead.cursecdn.com/static/img/18/players/212607.png
+71, 57, 73, Cedric Hountondji, 5, 19-01-1994, CB, https://futhead.cursecdn.com/static/img/18/players/219680.png
+73, 0, 73, Sean Johnson, 1, 31-05-1989, DM, https://futhead.cursecdn.com/static/img/18/players/190780.png
+Toronto FC, 14000000, 3-5-2, toronto.png, MLS
+83, 85, 57, Sebastian Giovinco, 10, 26-01-1987, CF/SP, https://futhead.cursecdn.com/static/img/18/players/184431.png
+79, 81, 58, Jozy Altidore, 17, 06-11-1989, SP, https://futhead.cursecdn.com/static/img/18/players/176237.png
+78, 80, 63, Victor Vazquez, 7, 20-01-1987, CAM, https://futhead.cursecdn.com/static/img/18/players/189508.png
+76, 70, 77, Justin Morrow, 2, 04-10-1987, LM/LB, https://futhead.cursecdn.com/static/img/18/players/198000.png
+77, 72, 78, Gregory van der Wiel, 9, 03-02-1988, RM/RB, https://futhead.cursecdn.com/static/img/18/players/183937.png
+76, 64, 78, Micheal Bradley, 4, 31-07-1987, CVM, https://futhead.cursecdn.com/static/img/18/players/155887.png
+73, 68, 75, Marky Delgado, 18, 16-05-1995, CM/CVM, https://futhead.cursecdn.com/static/img/18/players/208592.png
+74, 53, 76, Drew Moor, 3, 15-01-1984, CB, https://futhead.cursecdn.com/static/img/18/players/164529.png
+73, 56, 75, Eriq Zavaleta, 15, 02-08-1992, CB, https://futhead.cursecdn.com/static/img/18/players/202073.png
+73, 64, 74, Chris Mavinga, 23, 26-05-1991, LB/CB, https://futhead.cursecdn.com/static/img/18/players/193278.png
+73, 73, Alex Bono, 25, 25-04-1994, DM, https://futhead.cursecdn.com/static/img/18/players/226786.png
+Los Angeles FC, 12000000, 4-3-3(C), lafc.png, MLS
+71, 73, 53, Latif Blessing, 7, 30-12-1996, LW, https://futhead.cursecdn.com/static/img/18/players/237153.png
+76, 78, 56, Adama Diomande, 99, 14-02-1990, SP, https://futhead.cursecdn.com/static/img/18/players/188107.png
+82, 84, 59, Carlos Vela, 10, 01-03-1989, RW/CAM, https://futhead.cursecdn.com/static/img/18/players/169416.png
+77, 79, 68, Lee Nguyen, 24, 07-10-1986, CAM/CM, https://futhead.cursecdn.com/static/img/18/players/178284.png
+76, 77, 74, Benny Feilhaber, 33, 19-01-1985, CM, https://futhead.cursecdn.com/static/img/18/players/173370.png
+70, 62, 71, Calum Mallace, 16, 10-01-1990, CVM, https://futhead.cursecdn.com/static/img/18/players/207675.png
+71, 61, 73, Steven Beitashour, 3, 01-02-1987, RB, https://futhead.cursecdn.com/static/img/18/players/198288.png
+78, 57, 80, Laurent Ciman, 23, 05-08-1985, CB, https://futhead.cursecdn.com/static/img/18/players/157678.png
+75, 60, 77, Walker Zimmerman, 25, 19-05-1993, CB, https://futhead.cursecdn.com/static/img/18/players/212591.png
+70, 67, 72, Jordan Harvey, 2, 28-01-1984, LB, https://futhead.cursecdn.com/static/img/18/players/178379.png
+71, 0, 71, Tyler Miller, 1, 12-03-1993, DM, https://futhead.cursecdn.com/static/img/18/players/231878.png
