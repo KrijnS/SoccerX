@@ -1,4 +1,4 @@
-London SC, ConsoleColor.Red, ConsoleColor.DarkRed
+London SC,ConsoleColor.Red,ConsoleColor.DarkRed,17
 Jared Lindsey,GK,26
 Kason Barnett,GK,21
 Julien Lam,RB,29
@@ -21,7 +21,7 @@ Bernardo Brennan,ST,30
 Issac Jefferson,ST,30
 Franco Larsen,LW,26
 Brady Briggs,LW,24
-Birmingham FC, ConsoleColor.Yellow, ConsoleColor.Blue
+Birmingham FC,ConsoleColor.Yellow,ConsoleColor.Blue,17
 Jordyn Flynn,GK,19
 Brenton Ibarra,GK,18
 Taylor Delgado,RB,25
@@ -44,7 +44,7 @@ Abdullah Collier,ST/CF,18
 Jadon Medrano,ST/CF,28
 Arnav Howell,LW,28
 Stephan Colon,LW,27
-Glasgow United, ConsoleColor.Gray, ConsoleColor.Red
+Glasgow United,ConsoleColor.Gray,ConsoleColor.Red,18
 Howard Stevenson,GK,24
 Kasey Daugherty,GK,23
 Micheal Suarez,RB,28
@@ -67,7 +67,7 @@ Cortez Schultz,ST/CF,26
 Lewis Ramirez,ST/CF,29
 Quintin Carr,LW,23
 Kadyn Conley,LW/LM,33
-Leeds City, ConsoleColor.Gray, ConsoleColor.Cyan
+Leeds City,ConsoleColor.Gray,ConsoleColor.Cyan,19
 Ethen Herring,GK,27
 Ean Fisher,GK,23
 Nathanial Nolan,RB/RWB,27
@@ -90,7 +90,7 @@ Makhi Carrillo,ST/CF,25
 Houston Owens,ST,19
 Cullen McIntosh,LW/LM,28
 Erick Garner,LW,21
-Bristol City, ConsoleColor.Magenta, ConsoleColor.White
+Bristol City,ConsoleColor.Magenta,ConsoleColor.White,17
 Andy Herman,GK,32
 Jason McIntosh,GK,28
 Zack Klein,RB/RWB,26
@@ -113,7 +113,7 @@ Bryan Cohen,ST,25
 Armando Knox,ST,30
 Mitchell Holmes,LW,20
 Ricky Trevino,LW/LM,29
-Liverpool City, ConsoleColor.Blue, ConsoleColor.Yellow
+Liverpool City,ConsoleColor.Blue,ConsoleColor.Yellow,20
 Ernesto Malone,GK,28
 Dwayne Kennedy,GK,25
 Jon Cano,RB/RWB,21
@@ -136,7 +136,7 @@ Ronnie Conner,ST,29
 Kamari Ware,ST,22
 Bennett Santana,LW/LM,32
 Garrison Hammond,LW/LM,31
-Manchester Club, ConsoleColor.Blue, ConsoleColor.Gray
+Manchester Club,ConsoleColor.Blue,ConsoleColor.Gray,19
 Kelton Lang,GK,31
 Kaden Gill,GK,23
 Jake Rivera,RB/RWB,23
@@ -159,7 +159,7 @@ Wade Schroeder,ST/CF,26
 Kai Massey,ST,22
 Ben Meyer,LW/LM,18
 Mario Stephenson,LW,28
-London City, ConsoleColor.Green, ConsoleColor.DarkBlue
+London City,ConsoleColor.Green,ConsoleColor.DarkBlue,17
 Jeffery Anderson,GK,26
 Dominique Powell,GK,26
 Roderick Poole,RB/RWB,20
@@ -182,7 +182,7 @@ Javion Ramos,ST,25
 Jamison Navarro,ST/CF,23
 Bruno Hess,LW/LM,19
 Broderick Lambert,LW/LM,17
-Birmingham SC, ConsoleColor.Green, ConsoleColor.Magenta
+Birmingham SC,ConsoleColor.Green,ConsoleColor.Magenta,17
 Kamron Norton,GK,22
 Declan Daniel,GK,20
 Bernard Steele,RB,29
@@ -205,7 +205,7 @@ Kenny Acosta,ST,27
 Cael Fry,ST/CF,23
 Jamir Macdonald,LW,29
 Cannon Moody,LW/LM,23
-Glasgow Club, ConsoleColor.Red, ConsoleColor.Magenta
+Glasgow Club,ConsoleColor.Red,ConsoleColor.Magenta,19
 Kian Moyer,GK,27
 Jaylen Colon,GK,22
 Conner Manning,RB/RWB,21
@@ -228,7 +228,7 @@ Waylon Gentry,ST/CF,17
 Hugh Willis,ST,23
 Reece Frost,LW,25
 Dario Flowers,LW/LM,23
-Leeds FC, ConsoleColor.White, ConsoleColor.Green
+Leeds FC,ConsoleColor.White,ConsoleColor.Green,16
 Darian Valdez,GK,27
 Jadyn Sharp,GK,23
 Bailey Bernal,RB/RWB,26
@@ -251,7 +251,7 @@ German Cherry,ST,27
 Dalton Peters,ST/CF,26
 Kade Larsen,LW/LM,25
 Brady Marsh,LW/LM,18
-Bristol FC, ConsoleColor.Gray, ConsoleColor.DarkBlue
+Bristol FC,ConsoleColor.Gray,ConsoleColor.DarkBlue,20
 Brodie Moon,GK,26
 Ismael Olsen,GK,21
 Kenny Maddox,RB/RWB,23
@@ -274,7 +274,7 @@ Cole Dunlap,ST,31
 Simeon Hobbs,ST,26
 Immanuel Stanley,LW,21
 Darren Valentine,LW/LM,30
-Liverpool United, ConsoleColor.White, ConsoleColor.Magenta
+Liverpool United,ConsoleColor.White,ConsoleColor.Magenta,19
 Jamarion Christensen,GK,32
 Tomas Dawson,GK,18
 Davin Oneill,RB,25
@@ -297,7 +297,7 @@ Kenny Lim,ST,19
 Raul Nelson,ST,24
 Marquise Rose,LW/LM,23
 Larry Blevins,LW/LM,30
-Manchester SC, ConsoleColor.DarkRed, ConsoleColor.Red
+Manchester SC,ConsoleColor.DarkRed,ConsoleColor.Red,18
 Will Lopez,GK,30
 Korbin Chapman,GK,33
 Jamar Bond,RB/RWB,22
@@ -320,7 +320,7 @@ Yair Reyna,ST,30
 Josh Patton,ST/CF,30
 Duncan Aguilar,LW,29
 Giovanny Walters,LW,22
-Sheffield SC, ConsoleColor.Green, ConsoleColor.Black
+Sheffield SC,ConsoleColor.Green,ConsoleColor.Black,17
 Dawson Cortes,GK,22
 Ralph Cruz,GK,23
 Kale Joseph,RB/RWB,30
@@ -343,7 +343,7 @@ Alonso Gomez,ST/CF,32
 Zander House,ST,19
 Kasey Fleming,LW/LM,22
 Omari Montgomery,LW/LM,27
-Edinburgh Club, ConsoleColor.Yellow, ConsoleColor.Green
+Edinburgh Club,ConsoleColor.Yellow,ConsoleColor.Green,20
 Frankie Finley,GK,28
 Kevin Frost,GK,27
 Alexis Stout,RB,28
@@ -366,7 +366,7 @@ Gaige Lucero,ST,28
 Mitchell McClain,ST,24
 Triston Le,LW,22
 Cory Mora,LW,28
-Cardiff City, ConsoleColor.DarkRed, ConsoleColor.Yellow
+Cardiff City,ConsoleColor.DarkRed,ConsoleColor.Yellow,19
 Mikel Harper,GK,25
 Dakota Cooper,GK,25
 Aden Goodman,RB,29
@@ -389,7 +389,7 @@ Devan Maynard,ST/CF,28
 Diego Lopez,ST/CF,27
 Sammy Frazier,LW,25
 Darrell Gallagher,LW,24
-Leicester Club, ConsoleColor.DarkBlue, ConsoleColor.Gray
+Leicester Club,ConsoleColor.DarkBlue,ConsoleColor.Gray,18
 Nasir Zamora,GK,29
 Ronald Avalos,GK,25
 Jamie Robbins,RB,28
@@ -412,7 +412,7 @@ Jerome Orozco,ST,22
 Tyrese Quinn,ST/CF,30
 Warren Friedman,LW,22
 Allen Michael,LW,31
-Stoke-on-Trent SC, ConsoleColor.Black, ConsoleColor.Blue
+Stoke-on-Trent SC,ConsoleColor.Black,ConsoleColor.Blue,16
 Cristofer Baxter,GK,20
 Jaylen Santos,GK,32
 Efren Wang,RB/RWB,24
@@ -435,7 +435,7 @@ Paul French,ST/CF,24
 Giovanny Castro,ST,25
 Kellen Esquivel,LW/LM,30
 Rafael Carr,LW,27
-Bradford FC, ConsoleColor.DarkRed, ConsoleColor.Blue
+Bradford FC,ConsoleColor.DarkRed,ConsoleColor.Blue,15
 Jimmy Estes,GK,29
 Devan McCormick,GK,28
 Rolando Lynch,RB,28
@@ -458,7 +458,7 @@ Yosef Hoover,ST/CF,30
 Elijah Olsen,ST,20
 Javon Suarez,LW,20
 Amir Farmer,LW,19
-Coventry City, ConsoleColor.White, ConsoleColor.Red
+Coventry City,ConsoleColor.White,ConsoleColor.Red,16
 Pablo Vaughan,GK,25
 Tommy Thomas,GK,26
 Darnell Hines,RB/RWB,28
@@ -481,7 +481,7 @@ Cannon Maldonado,ST,30
 Chaim Flynn,ST/CF,29
 Franco Randall,LW,25
 Jacob Padilla,LW/LM,23
-Nottingham SC, ConsoleColor.Red, ConsoleColor.Magenta
+Nottingham SC,ConsoleColor.Red,ConsoleColor.Magenta,16
 Donavan Moore,GK,20
 Israel Bowers,GK,20
 Alexis Montgomery,RB,29
@@ -504,7 +504,7 @@ Amir Perkins,ST/CF,27
 Ryland Dawson,ST/CF,26
 Giovanni Massey,LW,26
 Cohen Guerrero,LW/LM,28
-Kingston-upon-Hull FC, ConsoleColor.Red, ConsoleColor.Green
+Kingston-upon-Hull FC,ConsoleColor.Red,ConsoleColor.Green,16
 Mikel Schaefer,GK,20
 Omarion Haynes,GK,30
 Sammy Porter,RB,23
@@ -527,7 +527,7 @@ Isaiah Booker,ST,34
 Jamison Foster,ST/CF,29
 Clay Case,LW/LM,23
 Corbin Solomon,LW/LM,33
-Belfast SC, ConsoleColor.Yellow, ConsoleColor.Red
+Belfast SC,ConsoleColor.Yellow,ConsoleColor.Red,13
 Orion Lowe,GK,21
 Pierce Hendrix,GK,21
 Oscar Burns,RB,26
@@ -550,7 +550,7 @@ Warren Proctor,ST/CF,27
 Braydon Meza,ST/CF,29
 Shea Reilly,LW/LM,25
 Seamus Zhang,LW/LM,22
-Newcastle-upon-Tyne FC, ConsoleColor.Gray, ConsoleColor.Green
+Newcastle-upon-Tyne FC,ConsoleColor.Gray,ConsoleColor.Green,13
 Jamison Aguirre,GK,18
 Nehemiah Vo,GK,18
 Ryan Buckley,RB,24
@@ -573,7 +573,7 @@ Grant Shaffer,ST,23
 Antonio Anderson,ST,27
 Glenn Villa,LW,33
 Cade Small,LW,31
-Sunderland Club, ConsoleColor.Magenta, ConsoleColor.Cyan
+Sunderland Club,ConsoleColor.Magenta,ConsoleColor.Cyan,16
 Cason Barr,GK,32
 Micah Pham,GK,26
 Adin Perry,RB/RWB,24
@@ -596,7 +596,7 @@ Dawson Reynolds,ST,27
 Elian Macias,ST,20
 Bradley Leach,LW/LM,31
 Ignacio Daniels,LW,27
-Brighton City, ConsoleColor.Cyan, ConsoleColor.Yellow
+Brighton City,ConsoleColor.Cyan,ConsoleColor.Yellow,15
 Jase Myers,GK,18
 Alexander Medina,GK,22
 Moises Pham,RB/RWB,20
@@ -619,7 +619,7 @@ Aiden Jimenez,ST,31
 Steven Bernard,ST,34
 Damien Fry,LW/LM,29
 Joseph Noble,LW,16
-Derby FC, ConsoleColor.Blue, ConsoleColor.Yellow
+Derby FC,ConsoleColor.Blue,ConsoleColor.Yellow,14
 Nick Pacheco,GK,34
 Alfredo Gardner,GK,32
 Jude Brooks,RB,34
@@ -642,7 +642,7 @@ Lawrence Shepard,ST/CF,26
 Noel Melendez,ST,27
 Stephan Kerr,LW,24
 Malakai Copeland,LW/LM,26
-Plymouth FC, ConsoleColor.Green, ConsoleColor.Cyan
+Plymouth FC,ConsoleColor.Green,ConsoleColor.Cyan,16
 Devonte Thornton,GK,20
 Quincy Beasley,GK,32
 Mariano Orr,RB,25
@@ -665,7 +665,7 @@ Maurice Bridges,ST/CF,32
 Vance Gilbert,ST,28
 Cody Simmons,LW,20
 Elias Lester,LW,30
-Wolverhampton SC, ConsoleColor.Red, ConsoleColor.DarkRed
+Wolverhampton SC,ConsoleColor.Red,ConsoleColor.DarkRed,16
 Xander Andrews,GK,23
 Tyrese Reese,GK,27
 Kelvin Gilmore,RB/RWB,22
@@ -688,7 +688,7 @@ Kenyon Webb,ST,30
 Avery Miller,ST,21
 Keyon Mack,LW,26
 Miles Neal,LW,19
-Southampton SC, ConsoleColor.Red, ConsoleColor.Green
+Southampton SC,ConsoleColor.Red,ConsoleColor.Green,15
 Calvin Reid,GK,24
 Kole Shields,GK,27
 Felipe Skinner,RB/RWB,24
@@ -711,7 +711,7 @@ Rhett Norris,ST/CF,24
 Ronald Bishop,ST,30
 Quinten Fitzpatrick,LW,27
 Jonathan Harrington,LW/LM,26
-Swansea SC, ConsoleColor.Green, ConsoleColor.White
+Swansea SC,ConsoleColor.Green,ConsoleColor.White,15
 Branden Le,GK,21
 Jimmy Nixon,GK,29
 Paul Cabrera,RB/RWB,25
@@ -734,7 +734,7 @@ Kayden Garrison,ST/CF,26
 Leonard Flynn,ST,18
 Esteban Greer,LW/LM,29
 Marcos McPherson,LW/LM,19
-Salford City, ConsoleColor.Gray, ConsoleColor.Cyan
+Salford City,ConsoleColor.Gray,ConsoleColor.Cyan,13
 Ralph Bernard,GK,21
 Camryn Barnes,GK,30
 Maximo Lozano,RB/RWB,25
@@ -757,7 +757,7 @@ Brayden Lamb,ST,31
 Zavier Castaneda,ST,25
 Bruno Suarez,LW,31
 Abel Sharp,LW,23
-Portsmouth SC, ConsoleColor.Blue, ConsoleColor.Black
+Portsmouth SC,ConsoleColor.Blue,ConsoleColor.Black,15
 Noe Bennett,GK,20
 Chase Duffy,GK,27
 Gary Bush,RB,25
@@ -780,7 +780,7 @@ Deven Coffey,ST,28
 Frankie Alvarez,ST/CF,26
 Lane Holland,LW,28
 Donavan Hines,LW/LM,22
-Milton Keynes SC, ConsoleColor.DarkBlue, ConsoleColor.Gray
+Milton Keynes SC,ConsoleColor.DarkBlue,ConsoleColor.Gray,15
 Braulio Finley,GK,34
 Zackery Stark,GK,25
 Myles Bradford,RB,23
@@ -803,7 +803,7 @@ Salvatore Hart,ST,31
 Tate Howe,ST/CF,23
 Martin Gomez,LW/LM,32
 Devon Valenzuela,LW,19
-Aberdeen United, ConsoleColor.DarkBlue, ConsoleColor.Green
+Aberdeen United,ConsoleColor.DarkBlue,ConsoleColor.Green,16
 Maurice Peterson,GK,25
 Jordan Cain,GK,28
 Trace Savage,RB,28
@@ -826,7 +826,7 @@ Shayne Soto,ST,23
 Maximilian Branch,ST/CF,26
 Marcelo Wade,LW/LM,29
 Jaiden Jennings,LW,27
-Reading SC, ConsoleColor.White, ConsoleColor.Black
+Reading SC,ConsoleColor.White,ConsoleColor.Black,9
 Harrison Wheeler,GK,34
 Drew Schultz,GK,27
 Denzel Delarosa,RB/RWB,18
@@ -849,7 +849,7 @@ Deshawn Dunlap,ST,23
 Jake Becker,ST,21
 Declan Levy,LW/LM,23
 Kareem Farrell,LW/LM,29
-Northampton United, ConsoleColor.White, ConsoleColor.Green
+Northampton United,ConsoleColor.White,ConsoleColor.Green,9
 Conor Herrera,GK,27
 Ahmed Davenport,GK,23
 Derick Friedman,RB,26
@@ -872,7 +872,7 @@ Will Cherry,ST/CF,27
 Seth Peck,ST/CF,19
 Kenny Sanders,LW/LM,20
 Quintin Little,LW/LM,25
-Luton City, ConsoleColor.Blue, ConsoleColor.Gray
+Luton City,ConsoleColor.Blue,ConsoleColor.Gray,10
 Danny Haley,GK,27
 Albert Hobbs,GK,19
 Deacon Harper,RB,24
@@ -895,7 +895,7 @@ Marquez Mays,ST,28
 Alijah Barker,ST,24
 Braedon Savage,LW/LM,25
 Jakob Knight,LW/LM,21
-Swindon Club, ConsoleColor.Yellow, ConsoleColor.Black
+Swindon Club,ConsoleColor.Yellow,ConsoleColor.Black,11
 Keyon Adkins,GK,31
 Luca Waters,GK,31
 Todd Strickland,RB,23
@@ -918,7 +918,7 @@ Ruben Yang,ST,25
 Cristobal Owen,ST/CF,29
 Gavin Blake,LW/LM,25
 Roderick Price,LW/LM,24
-Warrington City, ConsoleColor.Gray, ConsoleColor.Cyan
+Warrington City,ConsoleColor.Gray,ConsoleColor.Cyan,10
 Jonathon Roy,GK,29
 Rafael Pratt,GK,24
 Donavan Huynh,RB,29
@@ -941,7 +941,7 @@ Ahmed Burton,ST/CF,24
 Juan Kaur,ST,23
 Isaak Bernard,LW,25
 Porter Buchanan,LW,16
-Dudley United, ConsoleColor.DarkRed, ConsoleColor.Cyan
+Dudley United,ConsoleColor.DarkRed,ConsoleColor.Cyan,10
 Cyrus Ali,GK,28
 Rory Cabrera,GK,29
 Alfonso Gregory,RB,17
@@ -964,7 +964,7 @@ Stone Ingram,ST/CF,30
 Byron Castillo,ST,29
 Ahmed Cook,LW,32
 Daryl Gordon,LW,24
-York Club, ConsoleColor.Yellow, ConsoleColor.Blue
+York Club,ConsoleColor.Yellow,ConsoleColor.Blue,13
 Porter Turner,GK,26
 Rodney Padilla,GK,28
 Antony Manning,RB/RWB,19
@@ -987,7 +987,7 @@ Ramon Gillespie,ST/CF,23
 Maximilian Cobb,ST/CF,19
 Pablo Sexton,LW/LM,33
 Julien Parker,LW,28
-Bolton FC, ConsoleColor.Gray, ConsoleColor.DarkRed
+Bolton FC,ConsoleColor.Gray,ConsoleColor.DarkRed,9
 Darian Sutton,GK,27
 Ethan Hinton,GK,23
 Carmelo Burke,RB,25
@@ -1010,7 +1010,7 @@ Abram Macias,ST/CF,24
 Travon Wilkins,ST,25
 Damian Barnes,LW/LM,24
 Erick Clay,LW,25
-Stockton-on-Tees City, ConsoleColor.White, ConsoleColor.Green
+Stockton-on-Tees City,ConsoleColor.White,ConsoleColor.Green,9
 Ali Wyatt,GK,28
 Johnathan Schneider,GK,27
 Terry Grimes,RB,23
@@ -1033,7 +1033,7 @@ Mathias Shields,ST/CF,28
 Moshe Long,ST/CF,31
 Jeffery May,LW,27
 Drew Sanford,LW/LM,25
-Preston Club, ConsoleColor.Red, ConsoleColor.Blue
+Preston Club,ConsoleColor.Red,ConsoleColor.Blue,10
 Braylen Pugh,GK,20
 Ramiro Carson,GK,27
 Kenneth Golden,RB/RWB,29
@@ -1056,7 +1056,7 @@ Jaylen Acosta,ST,31
 Santino Carey,ST/CF,21
 Joaquin Truong,LW,25
 Gael Mendez,LW/LM,17
-Bournemouth United, ConsoleColor.Cyan, ConsoleColor.Red
+Bournemouth United,ConsoleColor.Cyan,ConsoleColor.Red,12
 Manuel Jones,GK,26
 Asher Matthews,GK,20
 Vance Harrison,RB,22
@@ -1079,7 +1079,7 @@ Keyon Buck,ST,26
 Irvin Livingston,ST,26
 Miguel Hester,LW/LM,27
 Martin Morris,LW/LM,25
-Norwich United, ConsoleColor.Cyan, ConsoleColor.DarkBlue
+Norwich United,ConsoleColor.Cyan,ConsoleColor.DarkBlue,12
 Yusuf Villalobos,GK,32
 Colt Galvan,GK,20
 Cristian Diaz,RB,26
@@ -1102,7 +1102,7 @@ Dario Neal,ST,18
 Jax Vincent,ST,25
 Corey Conway,LW/LM,29
 Miles Graves,LW/LM,25
-Middlesbrough FC, ConsoleColor.DarkRed, ConsoleColor.Red
+Middlesbrough FC,ConsoleColor.DarkRed,ConsoleColor.Red,10
 Armando Briggs,GK,17
 Efren Humphrey,GK,21
 Jesus Ortiz,RB/RWB,29
@@ -1125,7 +1125,7 @@ Dexter Parker,ST,31
 Kenneth Watkins,ST/CF,21
 Kenny Corona,LW,32
 Amari Horne,LW,28
-Peterborough SC, ConsoleColor.Magenta, ConsoleColor.Cyan
+Peterborough SC,ConsoleColor.Magenta,ConsoleColor.Cyan,12
 Sammy Jenkins,GK,27
 Colby Ross,GK,28
 Easton Xiong,RB,25
@@ -1148,7 +1148,7 @@ Jake Bean,ST/CF,25
 Caleb Garcia,ST,29
 Arnav Castillo,LW,30
 Ashton Peralta,LW/LM,25
-Southend-on-Sea Club, ConsoleColor.Black, ConsoleColor.DarkRed
+Southend-on-Sea Club,ConsoleColor.Black,ConsoleColor.DarkRed,13
 Alfredo Myers,GK,22
 Ralph Richmond,GK,32
 Dangelo Stokes,RB,23
@@ -1171,7 +1171,7 @@ Lucian Norton,ST,33
 Ross Hodges,ST/CF,29
 Grant Manning,LW/LM,28
 Efrain Reyes,LW/LM,32
-Walsall Club, ConsoleColor.Green, ConsoleColor.DarkRed
+Walsall Club,ConsoleColor.Green,ConsoleColor.DarkRed,11
 Ronnie Nicholson,GK,23
 Damian Pope,GK,21
 Charles Manning,RB/RWB,24
@@ -1194,7 +1194,7 @@ Bennett Fowler,ST/CF,30
 Zander Keller,ST,20
 Curtis Sims,LW/LM,25
 Alonzo Morrow,LW,19
-Colchester City, ConsoleColor.White, ConsoleColor.DarkBlue
+Colchester City,ConsoleColor.White,ConsoleColor.DarkBlue,14
 Tristen Figueroa,GK,26
 Kian Tate,GK,30
 Elliott Eaton,RB,31
@@ -1217,7 +1217,7 @@ Fisher Baldwin,ST,32
 Talon Booth,ST,23
 Vincenzo Villegas,LW,19
 Jabari McCullough,LW/LM,32
-Mansfield SC, ConsoleColor.Blue, ConsoleColor.Yellow
+Mansfield SC,ConsoleColor.Blue,ConsoleColor.Yellow,14
 Yahir Bennett,GK,28
 Skylar Daugherty,GK,22
 Bruce Wolfe,RB,28
@@ -1240,7 +1240,7 @@ Israel Conner,ST,29
 Maxim Leal,ST,27
 Brandon Erickson,LW,23
 Cannon Rubio,LW/LM,26
-Telford SC, ConsoleColor.Blue, ConsoleColor.Magenta
+Telford SC,ConsoleColor.Blue,ConsoleColor.Magenta,10
 Keon Everett,GK,24
 Enzo Jackson,GK,27
 Uriel Eaton,RB/RWB,24
@@ -1263,7 +1263,7 @@ Braylon Adkins,ST/CF,29
 Alec Johns,ST/CF,32
 Mitchell Dalton,LW/LM,23
 Johnathon Dodson,LW/LM,19
-Ipswich United, ConsoleColor.White, ConsoleColor.Gray
+Ipswich United,ConsoleColor.White,ConsoleColor.Gray,11
 Zachery Wolf,GK,17
 Salvador Fisher,GK,25
 Milton Santana,RB/RWB,24
@@ -1286,7 +1286,7 @@ Justin Brady,ST,19
 Sean Conrad,ST/CF,19
 Marcos Oliver,LW,24
 Orlando Carrillo,LW,31
-Huddersfield United, ConsoleColor.Black, ConsoleColor.Magenta
+Huddersfield United,ConsoleColor.Black,ConsoleColor.Magenta,11
 Bobby Blevins,GK,23
 Charles Yang,GK,25
 Sincere Jackson,RB/RWB,26

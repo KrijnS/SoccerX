@@ -20,7 +20,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.AssignAge();
+            program.AssignTeamQuality();
         }
 
         void FillPlayerFile()
@@ -230,6 +230,33 @@ namespace ConsoleApp3
 
                     counter++;
 
+                }
+            }
+
+            File.WriteAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", teams);
+        }
+
+        void AssignTeamQuality()
+        {
+            Random random = new Random();
+
+            teams = File.ReadAllLines(@"C:\Users\Krijn\Documents\Football\teams.txt", Encoding.UTF8);
+
+            int teamCount = teams.Length;
+
+            for (int i = 0; i < teamCount; i += 23)
+            {
+                if(i < 18 * 23)
+                {
+                    teams[i] += "," + random.Next(16, 21);
+                }
+                else if(i < 18 * 46)
+                {
+                    teams[i] += "," + random.Next(13, 17);
+                }
+                else
+                {
+                    teams[i] += "," + random.Next(9, 15);
                 }
             }
 
